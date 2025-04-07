@@ -1,0 +1,17 @@
+                                   count       mean        std   min    25%  \
+Gender_Category Major_Categories                                              
+Female          Non-STEMM         2301.0  14.752608  16.600720  0.25   5.00   
+                STEMM              101.0  19.603960  21.963187  1.00   6.00   
+Male            Non-STEMM          962.0  21.079002  26.692813  0.50   8.00   
+                STEMM               60.0  23.833333  23.115896  2.00  10.00   
+Other           Non-STEMM           41.0   9.853659   8.125765  1.00   4.00   
+                STEMM                2.0  15.500000  20.506097  1.00   8.25   
+
+                                   50%    75%    max  
+Gender_Category Major_Categories                      
+Female          Non-STEMM         10.0  20.00  200.0  
+                STEMM             14.0  20.00  120.0  
+Male            Non-STEMM         12.0  25.00  350.0  
+                STEMM             17.5  30.00  120.0  
+Other           Non-STEMM         10.0  10.00   40.0  
+                STEMM             15.5  22.75   30.0  

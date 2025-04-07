@@ -1,0 +1,25 @@
+                                   count       mean        std    min    25%  \
+Race_Categories Major_Categories                                               
+Asian           Non-STEMM          690.0  15.692029  20.427855   1.00   5.00   
+                STEMM               29.0  22.586207  30.199949   1.00   5.00   
+Black           Non-STEMM          545.0  11.166514  15.895263   0.25   3.00   
+                STEMM               50.0  16.320000  21.549601   1.00   5.00   
+Hispanic        Non-STEMM          629.0  14.182830  16.177507   0.50   5.00   
+                STEMM               19.0  14.210526   5.940248   7.00  10.00   
+OTHER           Non-STEMM          231.0  19.543290  20.293613   1.00   7.50   
+                STEMM                6.0  54.166667  36.113248  20.00  31.25   
+White           Non-STEMM         1637.0  18.802688  21.683667   1.00   7.00   
+                STEMM               81.0  23.432099  21.126369   1.00  10.00   
+
+                                   50%   75%    max  
+Race_Categories Major_Categories                     
+Asian           Non-STEMM         10.0  20.0  160.0  
+                STEMM             10.0  30.0  120.0  
+Black           Non-STEMM          6.0  12.0  200.0  
+                STEMM             10.0  16.0  100.0  
+Hispanic        Non-STEMM         10.0  20.0  160.0  
+                STEMM             12.0  20.0   30.0  
+OTHER           Non-STEMM         15.0  24.0  180.0  
+                STEMM             37.5  85.0  100.0  
+White           Non-STEMM         12.0  20.0  350.0  
+                STEMM             20.0  30.0  120.0  

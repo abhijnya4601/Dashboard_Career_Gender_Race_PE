@@ -1,0 +1,11 @@
+                                              sum_sq      df          F  \
+C(Race_Categories)                      3.355868e+04     4.0  21.223909   
+C(Major_Categories)                     5.576821e+03     1.0  14.108056   
+C(Race_Categories):C(Major_Categories)  5.626968e+03     4.0   3.558729   
+Residual                                1.544411e+06  3907.0        NaN   
+
+                                              PR(>F)  
+C(Race_Categories)                      2.462793e-17  
+C(Major_Categories)                     1.751182e-04  
+C(Race_Categories):C(Major_Categories)  6.646298e-03  
+Residual                                         NaN  

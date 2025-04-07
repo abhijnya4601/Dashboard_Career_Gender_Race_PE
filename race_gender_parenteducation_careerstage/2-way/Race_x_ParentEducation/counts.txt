@@ -1,0 +1,11 @@
+Race_Categories  ParentGuardianEducation  Count
+          White                      1.0   1280
+          White                      2.0    487
+          Asian                      1.0    479
+       Hispanic                      2.0    411
+          Black                      1.0    305
+          Asian                      2.0    211
+       Hispanic                      1.0    208
+          Black                      2.0    197
+          OTHER                      1.0    135
+          OTHER                      2.0     91

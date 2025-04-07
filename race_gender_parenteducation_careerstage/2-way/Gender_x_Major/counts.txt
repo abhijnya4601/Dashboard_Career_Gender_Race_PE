@@ -1,0 +1,7 @@
+Gender_Category Major_Categories  Count
+         Female        Non-STEMM   2301
+           Male        Non-STEMM    962
+         Female            STEMM    101
+           Male            STEMM     60
+          Other        Non-STEMM     41
+          Other            STEMM      2

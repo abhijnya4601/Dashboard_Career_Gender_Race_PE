@@ -1,0 +1,5 @@
+ ParentGuardianEducation Major_Categories  Count
+                     1.0        Non-STEMM   1965
+                     2.0        Non-STEMM   1167
+                     1.0            STEMM    101
+                     2.0            STEMM     63

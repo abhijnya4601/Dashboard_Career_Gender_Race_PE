@@ -1,0 +1,11 @@
+                                                   sum_sq      df          F  \
+C(CareerStage_NRMNCC_4)                      1.846453e+05     5.0  99.955091   
+C(Major_Categories)                          6.237534e+01     1.0   0.168830   
+C(CareerStage_NRMNCC_4):C(Major_Categories)  3.125292e+03     5.0   1.691832   
+Residual                                     1.297162e+06  3511.0        NaN   
+
+                                                   PR(>F)  
+C(CareerStage_NRMNCC_4)                      1.081409e-80  
+C(Major_Categories)                          6.811788e-01  
+C(CareerStage_NRMNCC_4):C(Major_Categories)  1.489704e-01  
+Residual                                              NaN  

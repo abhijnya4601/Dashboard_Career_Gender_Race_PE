@@ -1,0 +1,11 @@
+                                                  sum_sq      df          F  \
+C(Race_Categories)                          1.395511e+04     4.0   8.894800   
+C(CareerStage_NRMNCC_4)                     1.284902e+05     5.0  65.518353   
+C(Race_Categories):C(CareerStage_NRMNCC_4)  1.718719e+04    20.0   2.190978   
+Residual                                    1.568122e+06  3998.0        NaN   
+
+                                                  PR(>F)  
+C(Race_Categories)                          7.144180e-06  
+C(CareerStage_NRMNCC_4)                     9.382598e-54  
+C(Race_Categories):C(CareerStage_NRMNCC_4)  2.068488e-03  
+Residual                                             NaN  

@@ -1,0 +1,8 @@
+Race_Categories
+White       2369
+Black       1230
+Asian        929
+Hispanic     876
+Missing      531
+OTHER        322
+Name: count, dtype: int64

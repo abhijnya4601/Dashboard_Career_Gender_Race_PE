@@ -1,0 +1,11 @@
+                                                      sum_sq      df  \
+C(ParentGuardianEducation)                      2.690873e+03     1.0   
+C(Major_Categories)                             4.817146e+03     1.0   
+C(ParentGuardianEducation):C(Major_Categories)  9.463002e+02     1.0   
+Residual                                        1.170046e+06  3292.0   
+
+                                                        F    PR(>F)  
+C(ParentGuardianEducation)                       7.570946  0.005964  
+C(Major_Categories)                             13.553350  0.000236  
+C(ParentGuardianEducation):C(Major_Categories)   2.662477  0.102836  
+Residual                                              NaN       NaN  

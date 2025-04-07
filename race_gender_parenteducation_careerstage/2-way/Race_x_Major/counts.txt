@@ -1,0 +1,11 @@
+Race_Categories Major_Categories  Count
+          White        Non-STEMM   1637
+          Asian        Non-STEMM    690
+       Hispanic        Non-STEMM    629
+          Black        Non-STEMM    545
+          OTHER        Non-STEMM    231
+          White            STEMM     81
+          Black            STEMM     50
+          Asian            STEMM     29
+       Hispanic            STEMM     19
+          OTHER            STEMM      6

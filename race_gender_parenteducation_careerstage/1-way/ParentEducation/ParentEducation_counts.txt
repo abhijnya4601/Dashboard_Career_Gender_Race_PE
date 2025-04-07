@@ -1,0 +1,5 @@
+ParentGuardianEducation
+1.0        3065
+2.0        1821
+Missing     780
+Name: count, dtype: int64

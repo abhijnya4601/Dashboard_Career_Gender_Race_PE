@@ -1,0 +1,13 @@
+                                           count       mean        std   min  \
+ParentGuardianEducation Major_Categories                                       
+1.0                     Non-STEMM         1965.0  16.288422  19.124077  0.25   
+                        STEMM              101.0  23.792079  25.076809  1.00   
+2.0                     Non-STEMM         1167.0  14.675236  17.708060  0.50   
+                        STEMM               63.0  17.111111  19.360011  1.00   
+
+                                           25%   50%   75%    max  
+ParentGuardianEducation Major_Categories                           
+1.0                     Non-STEMM          5.0  10.0  20.0  200.0  
+                        STEMM             10.0  16.0  30.0  120.0  
+2.0                     Non-STEMM          5.0  10.0  20.0  350.0  
+                        STEMM              6.0  11.0  20.0  100.0  

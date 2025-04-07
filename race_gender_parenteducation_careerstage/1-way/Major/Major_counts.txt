@@ -1,0 +1,5 @@
+Major_Categories
+Non-STEMM    4858
+Missing      1137
+STEMM         345
+Name: count, dtype: int64

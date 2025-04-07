@@ -1,0 +1,6 @@
+Gender_Category
+Female     3515
+Male       1425
+Missing     670
+Other        56
+Name: count, dtype: int64

@@ -1,0 +1,11 @@
+                                                  sum_sq      df          F  \
+C(Gender_Category)                          1.010985e+04     2.0  12.840440   
+C(CareerStage_NRMNCC_4)                     1.218863e+05     5.0  61.922714   
+C(Gender_Category):C(CareerStage_NRMNCC_4)  6.073571e+03    10.0   1.542799   
+Residual                                    1.399111e+06  3554.0        NaN   
+
+                                                  PR(>F)  
+C(Gender_Category)                          3.437600e-04  
+C(CareerStage_NRMNCC_4)                     1.184258e-50  
+C(Gender_Category):C(CareerStage_NRMNCC_4)  1.269600e-01  
+Residual                                             NaN  
