@@ -1,0 +1,35 @@
+                                                          sum_sq      df  \
+C(Race_Categories)                                           NaN     4.0   
+C(Gender_Category)                                           NaN     2.0   
+C(ParentGuardianEducation)                                   NaN     1.0   
+C(CareerStage_NRMNCC_4)                                      NaN     4.0   
+C(Race_Categories):C(Gender_Category)              -1.505891e+02     8.0   
+C(Race_Categories):C(ParentGuardianEducation)                NaN     4.0   
+C(Gender_Category):C(ParentGuardianEducation)                NaN     2.0   
+C(Race_Categories):C(CareerStage_NRMNCC_4)          1.963611e+04    16.0   
+C(Gender_Category):C(CareerStage_NRMNCC_4)          8.324336e+03     8.0   
+C(ParentGuardianEducation):C(CareerStage_NRMNCC_4)           NaN     4.0   
+C(Race_Categories):C(Gender_Category):C(ParentG...  4.535453e+03     8.0   
+C(Race_Categories):C(Gender_Category):C(CareerS...  2.266948e+03    32.0   
+C(Race_Categories):C(ParentGuardianEducation):C...  3.390553e+03    16.0   
+C(Gender_Category):C(ParentGuardianEducation):C...  1.383469e+02     8.0   
+C(Race_Categories):C(Gender_Category):C(ParentG...  1.181893e+03    32.0   
+Residual                                            1.282445e+06  3671.0   
+
+                                                           F    PR(>F)  
+C(Race_Categories)                                       NaN       NaN  
+C(Gender_Category)                                       NaN       NaN  
+C(ParentGuardianEducation)                               NaN       NaN  
+C(CareerStage_NRMNCC_4)                                  NaN       NaN  
+C(Race_Categories):C(Gender_Category)              -0.053883  1.000000  
+C(Race_Categories):C(ParentGuardianEducation)            NaN       NaN  
+C(Gender_Category):C(ParentGuardianEducation)            NaN       NaN  
+C(Race_Categories):C(CareerStage_NRMNCC_4)          3.513024  0.029907  
+C(Gender_Category):C(CareerStage_NRMNCC_4)          2.978553  0.050989  
+C(ParentGuardianEducation):C(CareerStage_NRMNCC_4)       NaN       NaN  
+C(Race_Categories):C(Gender_Category):C(ParentG...  1.622843  0.202777  
+C(Race_Categories):C(Gender_Category):C(CareerS...  0.202786  0.999321  
+C(Race_Categories):C(ParentGuardianEducation):C...  0.606591  0.657893  
+C(Gender_Category):C(ParentGuardianEducation):C...  0.049502  0.823944  
+C(Race_Categories):C(Gender_Category):C(ParentG...  0.105724  0.999987  
+Residual                                                 NaN       NaN  

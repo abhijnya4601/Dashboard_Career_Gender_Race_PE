@@ -1,0 +1,415 @@
+                                                                          count  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories          
+Asian           Female          1.0                     Non-STEMM         302.0   
+                                                        STEMM               7.0   
+                                2.0                     Non-STEMM         128.0   
+                                                        STEMM               9.0   
+                Male            1.0                     Non-STEMM         130.0   
+                                                        STEMM               5.0   
+                                2.0                     Non-STEMM          75.0   
+                                                        STEMM               6.0   
+                Other           1.0                     Non-STEMM           5.0   
+                                2.0                     Non-STEMM           3.0   
+Black           Female          1.0                     Non-STEMM         224.0   
+                                                        STEMM              21.0   
+                                2.0                     Non-STEMM         145.0   
+                                                        STEMM              10.0   
+                Male            1.0                     Non-STEMM          76.0   
+                                                        STEMM               9.0   
+                                2.0                     Non-STEMM          48.0   
+                                                        STEMM               2.0   
+                Other           1.0                     Non-STEMM           4.0   
+                                2.0                     Non-STEMM           1.0   
+Hispanic        Female          1.0                     Non-STEMM         124.0   
+                                                        STEMM               3.0   
+                                2.0                     Non-STEMM         294.0   
+                                                        STEMM               5.0   
+                Male            1.0                     Non-STEMM          69.0   
+                                                        STEMM               6.0   
+                                2.0                     Non-STEMM          90.0   
+                                                        STEMM               5.0   
+                Other           1.0                     Non-STEMM           3.0   
+                                2.0                     Non-STEMM           5.0   
+OTHER           Female          1.0                     Non-STEMM          80.0   
+                                                        STEMM               3.0   
+                                2.0                     Non-STEMM          49.0   
+                Male            1.0                     Non-STEMM          44.0   
+                                                        STEMM               1.0   
+                                2.0                     Non-STEMM          34.0   
+                                                        STEMM               2.0   
+                Other           1.0                     Non-STEMM           4.0   
+White           Female          1.0                     Non-STEMM         748.0   
+                                                        STEMM              32.0   
+                                2.0                     Non-STEMM         301.0   
+                                                        STEMM              13.0   
+                Male            1.0                     Non-STEMM         345.0   
+                                                        STEMM              22.0   
+                                2.0                     Non-STEMM         117.0   
+                                                        STEMM               6.0   
+                Other           1.0                     Non-STEMM          16.0   
+                                2.0                     Non-STEMM           6.0   
+                                                        STEMM               1.0   
+
+                                                                               mean  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories              
+Asian           Female          1.0                     Non-STEMM         14.026490   
+                                                        STEMM             25.142857   
+                                2.0                     Non-STEMM         11.730469   
+                                                        STEMM             17.555556   
+                Male            1.0                     Non-STEMM         17.592308   
+                                                        STEMM             49.000000   
+                                2.0                     Non-STEMM         20.386667   
+                                                        STEMM             10.000000   
+                Other           1.0                     Non-STEMM         10.400000   
+                                2.0                     Non-STEMM         10.666667   
+Black           Female          1.0                     Non-STEMM          9.465402   
+                                                        STEMM             17.666667   
+                                2.0                     Non-STEMM          8.979310   
+                                                        STEMM             10.300000   
+                Male            1.0                     Non-STEMM         12.473684   
+                                                        STEMM             18.222222   
+                                2.0                     Non-STEMM         15.760417   
+                                                        STEMM              7.500000   
+                Other           1.0                     Non-STEMM         10.250000   
+                                2.0                     Non-STEMM         15.000000   
+Hispanic        Female          1.0                     Non-STEMM         11.814516   
+                                                        STEMM             12.333333   
+                                2.0                     Non-STEMM         12.884354   
+                                                        STEMM             14.600000   
+                Male            1.0                     Non-STEMM         15.543478   
+                                                        STEMM             14.666667   
+                                2.0                     Non-STEMM         12.516667   
+                                                        STEMM             14.400000   
+                Other           1.0                     Non-STEMM          3.000000   
+                                2.0                     Non-STEMM          8.400000   
+OTHER           Female          1.0                     Non-STEMM         18.862500   
+                                                        STEMM             58.333333   
+                                2.0                     Non-STEMM         16.408163   
+                Male            1.0                     Non-STEMM         26.352273   
+                                                        STEMM             30.000000   
+                                2.0                     Non-STEMM         16.088235   
+                                                        STEMM             60.000000   
+                Other           1.0                     Non-STEMM         14.250000   
+White           Female          1.0                     Non-STEMM         15.644385   
+                                                        STEMM             23.718750   
+                                2.0                     Non-STEMM         16.029900   
+                                                        STEMM             15.461538   
+                Male            1.0                     Non-STEMM         24.562319   
+                                                        STEMM             29.136364   
+                                2.0                     Non-STEMM         22.290598   
+                                                        STEMM             24.833333   
+                Other           1.0                     Non-STEMM          7.625000   
+                                2.0                     Non-STEMM         12.666667   
+                                                        STEMM              1.000000   
+
+                                                                                std  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories              
+Asian           Female          1.0                     Non-STEMM         20.953499   
+                                                        STEMM             42.175935   
+                                2.0                     Non-STEMM         10.002343   
+                                                        STEMM             15.025904   
+                Male            1.0                     Non-STEMM         17.887979   
+                                                        STEMM             42.190046   
+                                2.0                     Non-STEMM         26.577726   
+                                                        STEMM             12.393547   
+                Other           1.0                     Non-STEMM          7.300685   
+                                2.0                     Non-STEMM          1.154701   
+Black           Female          1.0                     Non-STEMM         12.939934   
+                                                        STEMM             23.503900   
+                                2.0                     Non-STEMM          9.940950   
+                                                        STEMM              8.485936   
+                Male            1.0                     Non-STEMM         14.191522   
+                                                        STEMM             16.924670   
+                                2.0                     Non-STEMM         17.756925   
+                                                        STEMM              7.778175   
+                Other           1.0                     Non-STEMM          7.762087   
+                                2.0                     Non-STEMM               NaN   
+Hispanic        Female          1.0                     Non-STEMM         10.083083   
+                                                        STEMM              6.806859   
+                                2.0                     Non-STEMM         10.797242   
+                                                        STEMM              4.979960   
+                Male            1.0                     Non-STEMM         13.672035   
+                                                        STEMM              4.676181   
+                                2.0                     Non-STEMM         11.833216   
+                                                        STEMM              8.961027   
+                Other           1.0                     Non-STEMM          2.645751   
+                                2.0                     Non-STEMM          5.029911   
+OTHER           Female          1.0                     Non-STEMM         24.345999   
+                                                        STEMM             36.170891   
+                                2.0                     Non-STEMM         10.929544   
+                Male            1.0                     Non-STEMM         23.857518   
+                                                        STEMM                   NaN   
+                                2.0                     Non-STEMM         18.370542   
+                                                        STEMM             56.568542   
+                Other           1.0                     Non-STEMM          6.751543   
+White           Female          1.0                     Non-STEMM         15.575330   
+                                                        STEMM             21.047158   
+                                2.0                     Non-STEMM         11.918925   
+                                                        STEMM             10.859830   
+                Male            1.0                     Non-STEMM         26.546192   
+                                                        STEMM             27.212209   
+                                2.0                     Non-STEMM         36.770739   
+                                                        STEMM             21.094233   
+                Other           1.0                     Non-STEMM          9.120490   
+                                2.0                     Non-STEMM          7.257180   
+                                                        STEMM                   NaN   
+
+                                                                            min  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories          
+Asian           Female          1.0                     Non-STEMM          1.00   
+                                                        STEMM              3.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM              1.00   
+                Male            1.0                     Non-STEMM          1.00   
+                                                        STEMM             15.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM              2.00   
+                Other           1.0                     Non-STEMM          2.00   
+                                2.0                     Non-STEMM         10.00   
+Black           Female          1.0                     Non-STEMM          0.25   
+                                                        STEMM              3.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM              1.00   
+                Male            1.0                     Non-STEMM          1.00   
+                                                        STEMM              2.00   
+                                2.0                     Non-STEMM          0.50   
+                                                        STEMM              2.00   
+                Other           1.0                     Non-STEMM          1.00   
+                                2.0                     Non-STEMM         15.00   
+Hispanic        Female          1.0                     Non-STEMM          0.50   
+                                                        STEMM              7.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM             10.00   
+                Male            1.0                     Non-STEMM          2.00   
+                                                        STEMM             10.00   
+                                2.0                     Non-STEMM          0.50   
+                                                        STEMM              8.00   
+                Other           1.0                     Non-STEMM          1.00   
+                                2.0                     Non-STEMM          2.00   
+OTHER           Female          1.0                     Non-STEMM          1.00   
+                                                        STEMM             35.00   
+                                2.0                     Non-STEMM          2.00   
+                Male            1.0                     Non-STEMM          1.00   
+                                                        STEMM             30.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM             20.00   
+                Other           1.0                     Non-STEMM          7.00   
+White           Female          1.0                     Non-STEMM          1.00   
+                                                        STEMM              2.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM              2.00   
+                Male            1.0                     Non-STEMM          1.00   
+                                                        STEMM              4.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM              6.00   
+                Other           1.0                     Non-STEMM          2.00   
+                                2.0                     Non-STEMM          1.00   
+                                                        STEMM              1.00   
+
+                                                                            25%  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories          
+Asian           Female          1.0                     Non-STEMM          4.00   
+                                                        STEMM              6.50   
+                                2.0                     Non-STEMM          4.00   
+                                                        STEMM              3.00   
+                Male            1.0                     Non-STEMM          8.00   
+                                                        STEMM             20.00   
+                                2.0                     Non-STEMM          5.00   
+                                                        STEMM              5.00   
+                Other           1.0                     Non-STEMM          5.00   
+                                2.0                     Non-STEMM         10.00   
+Black           Female          1.0                     Non-STEMM          3.00   
+                                                        STEMM              5.00   
+                                2.0                     Non-STEMM          3.00   
+                                                        STEMM              6.00   
+                Male            1.0                     Non-STEMM          3.00   
+                                                        STEMM             10.00   
+                                2.0                     Non-STEMM          5.00   
+                                                        STEMM              4.75   
+                Other           1.0                     Non-STEMM          7.75   
+                                2.0                     Non-STEMM         15.00   
+Hispanic        Female          1.0                     Non-STEMM          4.00   
+                                                        STEMM              8.50   
+                                2.0                     Non-STEMM          5.00   
+                                                        STEMM             11.00   
+                Male            1.0                     Non-STEMM          8.00   
+                                                        STEMM             10.50   
+                                2.0                     Non-STEMM          5.00   
+                                                        STEMM              9.00   
+                Other           1.0                     Non-STEMM          1.50   
+                                2.0                     Non-STEMM          5.00   
+OTHER           Female          1.0                     Non-STEMM          6.00   
+                                                        STEMM             37.50   
+                                2.0                     Non-STEMM         10.00   
+                Male            1.0                     Non-STEMM         10.00   
+                                                        STEMM             30.00   
+                                2.0                     Non-STEMM          5.00   
+                                                        STEMM             40.00   
+                Other           1.0                     Non-STEMM          9.25   
+White           Female          1.0                     Non-STEMM          5.00   
+                                                        STEMM             10.00   
+                                2.0                     Non-STEMM          9.00   
+                                                        STEMM             10.00   
+                Male            1.0                     Non-STEMM         10.00   
+                                                        STEMM             16.00   
+                                2.0                     Non-STEMM          8.00   
+                                                        STEMM              8.50   
+                Other           1.0                     Non-STEMM          3.00   
+                                2.0                     Non-STEMM         10.00   
+                                                        STEMM              1.00   
+
+                                                                           50%  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories         
+Asian           Female          1.0                     Non-STEMM          9.0   
+                                                        STEMM             10.0   
+                                2.0                     Non-STEMM         10.0   
+                                                        STEMM             15.0   
+                Male            1.0                     Non-STEMM         11.0   
+                                                        STEMM             40.0   
+                                2.0                     Non-STEMM         10.0   
+                                                        STEMM              5.0   
+                Other           1.0                     Non-STEMM         10.0   
+                                2.0                     Non-STEMM         10.0   
+Black           Female          1.0                     Non-STEMM          5.0   
+                                                        STEMM             10.0   
+                                2.0                     Non-STEMM          5.0   
+                                                        STEMM              7.0   
+                Male            1.0                     Non-STEMM          7.5   
+                                                        STEMM             10.0   
+                                2.0                     Non-STEMM         10.0   
+                                                        STEMM              7.5   
+                Other           1.0                     Non-STEMM         10.0   
+                                2.0                     Non-STEMM         15.0   
+Hispanic        Female          1.0                     Non-STEMM         10.0   
+                                                        STEMM             10.0   
+                                2.0                     Non-STEMM         10.0   
+                                                        STEMM             12.0   
+                Male            1.0                     Non-STEMM         13.0   
+                                                        STEMM             14.0   
+                                2.0                     Non-STEMM         10.0   
+                                                        STEMM             12.0   
+                Other           1.0                     Non-STEMM          2.0   
+                                2.0                     Non-STEMM         10.0   
+OTHER           Female          1.0                     Non-STEMM         10.5   
+                                                        STEMM             40.0   
+                                2.0                     Non-STEMM         15.0   
+                Male            1.0                     Non-STEMM         18.5   
+                                                        STEMM             30.0   
+                                2.0                     Non-STEMM         11.0   
+                                                        STEMM             60.0   
+                Other           1.0                     Non-STEMM         15.0   
+White           Female          1.0                     Non-STEMM         10.0   
+                                                        STEMM             20.0   
+                                2.0                     Non-STEMM         14.0   
+                                                        STEMM             15.0   
+                Male            1.0                     Non-STEMM         19.0   
+                                                        STEMM             20.0   
+                                2.0                     Non-STEMM         12.0   
+                                                        STEMM             20.0   
+                Other           1.0                     Non-STEMM          5.0   
+                                2.0                     Non-STEMM         12.5   
+                                                        STEMM              1.0   
+
+                                                                            75%  \
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories          
+Asian           Female          1.0                     Non-STEMM         15.00   
+                                                        STEMM             15.00   
+                                2.0                     Non-STEMM         15.00   
+                                                        STEMM             30.00   
+                Male            1.0                     Non-STEMM         20.00   
+                                                        STEMM             50.00   
+                                2.0                     Non-STEMM         20.00   
+                                                        STEMM              7.25   
+                Other           1.0                     Non-STEMM         15.00   
+                                2.0                     Non-STEMM         11.00   
+Black           Female          1.0                     Non-STEMM         10.00   
+                                                        STEMM             15.00   
+                                2.0                     Non-STEMM         10.00   
+                                                        STEMM             10.00   
+                Male            1.0                     Non-STEMM         15.25   
+                                                        STEMM             20.00   
+                                2.0                     Non-STEMM         20.00   
+                                                        STEMM             10.25   
+                Other           1.0                     Non-STEMM         12.50   
+                                2.0                     Non-STEMM         15.00   
+Hispanic        Female          1.0                     Non-STEMM         20.00   
+                                                        STEMM             15.00   
+                                2.0                     Non-STEMM         20.00   
+                                                        STEMM             20.00   
+                Male            1.0                     Non-STEMM         20.00   
+                                                        STEMM             19.00   
+                                2.0                     Non-STEMM         16.00   
+                                                        STEMM             13.00   
+                Other           1.0                     Non-STEMM          4.00   
+                                2.0                     Non-STEMM         10.00   
+OTHER           Female          1.0                     Non-STEMM         20.25   
+                                                        STEMM             70.00   
+                                2.0                     Non-STEMM         20.00   
+                Male            1.0                     Non-STEMM         30.00   
+                                                        STEMM             30.00   
+                                2.0                     Non-STEMM         20.00   
+                                                        STEMM             80.00   
+                Other           1.0                     Non-STEMM         20.00   
+White           Female          1.0                     Non-STEMM         20.00   
+                                                        STEMM             25.25   
+                                2.0                     Non-STEMM         20.00   
+                                                        STEMM             20.00   
+                Male            1.0                     Non-STEMM         30.00   
+                                                        STEMM             30.00   
+                                2.0                     Non-STEMM         25.00   
+                                                        STEMM             33.75   
+                Other           1.0                     Non-STEMM         10.00   
+                                2.0                     Non-STEMM         18.75   
+                                                        STEMM              1.00   
+
+                                                                            max  
+Race_Categories Gender_Category ParentGuardianEducation Major_Categories         
+Asian           Female          1.0                     Non-STEMM         160.0  
+                                                        STEMM             120.0  
+                                2.0                     Non-STEMM          40.0  
+                                                        STEMM              40.0  
+                Male            1.0                     Non-STEMM         120.0  
+                                                        STEMM             120.0  
+                                2.0                     Non-STEMM         160.0  
+                                                        STEMM              35.0  
+                Other           1.0                     Non-STEMM          20.0  
+                                2.0                     Non-STEMM          12.0  
+Black           Female          1.0                     Non-STEMM         100.0  
+                                                        STEMM             100.0  
+                                2.0                     Non-STEMM          72.0  
+                                                        STEMM              30.0  
+                Male            1.0                     Non-STEMM          80.0  
+                                                        STEMM              52.0  
+                                2.0                     Non-STEMM         100.0  
+                                                        STEMM              13.0  
+                Other           1.0                     Non-STEMM          20.0  
+                                2.0                     Non-STEMM          15.0  
+Hispanic        Female          1.0                     Non-STEMM          50.0  
+                                                        STEMM              20.0  
+                                2.0                     Non-STEMM          90.0  
+                                                        STEMM              20.0  
+                Male            1.0                     Non-STEMM          80.0  
+                                                        STEMM              20.0  
+                                2.0                     Non-STEMM          80.0  
+                                                        STEMM              30.0  
+                Other           1.0                     Non-STEMM           6.0  
+                                2.0                     Non-STEMM          15.0  
+OTHER           Female          1.0                     Non-STEMM         180.0  
+                                                        STEMM             100.0  
+                                2.0                     Non-STEMM          55.0  
+                Male            1.0                     Non-STEMM          93.0  
+                                                        STEMM              30.0  
+                                2.0                     Non-STEMM         100.0  
+                                                        STEMM             100.0  
+                Other           1.0                     Non-STEMM          20.0  
+White           Female          1.0                     Non-STEMM         180.0  
+                                                        STEMM             100.0  
+                                2.0                     Non-STEMM          80.0  
+                                                        STEMM              40.0  
+                Male            1.0                     Non-STEMM         200.0  
+                                                        STEMM             120.0  
+                                2.0                     Non-STEMM         350.0  
+                                                        STEMM              60.0  
+                Other           1.0                     Non-STEMM          40.0  
+                                2.0                     Non-STEMM          20.0  
+                                                        STEMM               1.0  

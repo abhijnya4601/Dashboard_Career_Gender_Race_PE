@@ -1,0 +1,19 @@
+                                                          sum_sq      df  \
+C(Race_Categories)                                  3.965087e+03     4.0   
+C(CareerStage_NRMNCC_4)                             1.290785e+05     5.0   
+C(Major_Categories)                                 8.849674e+02     1.0   
+C(Race_Categories):C(CareerStage_NRMNCC_4)          5.226116e+04    20.0   
+C(Race_Categories):C(Major_Categories)              2.602208e+02     4.0   
+C(CareerStage_NRMNCC_4):C(Major_Categories)         1.077273e+03     5.0   
+C(Race_Categories):C(CareerStage_NRMNCC_4):C(Ma...  5.378461e+03    20.0   
+Residual                                            1.363090e+06  3866.0   
+
+                                                            F        PR(>F)  
+C(Race_Categories)                                   2.811447  3.797690e-02  
+C(CareerStage_NRMNCC_4)                             73.218582  6.824260e-60  
+C(Major_Categories)                                  2.509947  1.132115e-01  
+C(Race_Categories):C(CareerStage_NRMNCC_4)           7.411163  9.369973e-12  
+C(Race_Categories):C(Major_Categories)               0.184510  9.069762e-01  
+C(CareerStage_NRMNCC_4):C(Major_Categories)          0.611073  4.344319e-01  
+C(Race_Categories):C(CareerStage_NRMNCC_4):C(Ma...   0.762720  6.651634e-01  
+Residual                                                  NaN           NaN  

@@ -1,0 +1,91 @@
+                                                           count       mean  \
+Race_Categories ParentGuardianEducation Major_Categories                      
+Asian           1.0                     Non-STEMM          442.0  15.002262   
+                                        STEMM               12.0  35.083333   
+                2.0                     Non-STEMM          206.0  14.866505   
+                                        STEMM               15.0  14.533333   
+Black           1.0                     Non-STEMM          314.0  10.163217   
+                                        STEMM               34.0  17.176471   
+                2.0                     Non-STEMM          202.0  10.957921   
+                                        STEMM               16.0  14.500000   
+Hispanic        1.0                     Non-STEMM          196.0  12.992347   
+                                        STEMM                9.0  13.888889   
+                2.0                     Non-STEMM          389.0  12.741645   
+                                        STEMM               10.0  14.500000   
+OTHER           1.0                     Non-STEMM          129.0  21.244186   
+                                        STEMM                4.0  51.250000   
+                2.0                     Non-STEMM           83.0  16.277108   
+                                        STEMM                2.0  60.000000   
+White           1.0                     Non-STEMM         1112.0  18.283273   
+                                        STEMM               54.0  25.925926   
+                2.0                     Non-STEMM          425.0  17.715294   
+                                        STEMM               21.0  17.666667   
+
+                                                                std    min  \
+Race_Categories ParentGuardianEducation Major_Categories                     
+Asian           1.0                     Non-STEMM         19.981227   1.00   
+                                        STEMM             42.052907   3.00   
+                2.0                     Non-STEMM         18.290018   1.00   
+                                        STEMM             14.090862   1.00   
+Black           1.0                     Non-STEMM         13.124398   0.25   
+                                        STEMM             20.606664   1.00   
+                2.0                     Non-STEMM         13.941847   0.50   
+                                        STEMM             24.033310   1.00   
+Hispanic        1.0                     Non-STEMM         11.580430   0.50   
+                                        STEMM              5.158596   7.00   
+                2.0                     Non-STEMM         10.985732   0.50   
+                                        STEMM              6.835366   8.00   
+OTHER           1.0                     Non-STEMM         23.925921   1.00   
+                                        STEMM             32.755407  30.00   
+                2.0                     Non-STEMM         14.344467   1.00   
+                                        STEMM             56.568542  20.00   
+White           1.0                     Non-STEMM         20.031338   1.00   
+                                        STEMM             23.658619   2.00   
+                2.0                     Non-STEMM         21.890920   1.00   
+                                        STEMM             14.653782   1.00   
+
+                                                            25%   50%    75%  \
+Race_Categories ParentGuardianEducation Major_Categories                       
+Asian           1.0                     Non-STEMM          5.00  10.0  20.00   
+                                        STEMM              9.50  17.5  42.50   
+                2.0                     Non-STEMM          5.00  10.0  17.00   
+                                        STEMM              4.00   6.0  30.00   
+Black           1.0                     Non-STEMM          3.00   5.0  10.00   
+                                        STEMM              5.00  10.0  19.00   
+                2.0                     Non-STEMM          3.00   6.0  12.75   
+                                        STEMM              5.00   7.0  12.25   
+Hispanic        1.0                     Non-STEMM          5.00  10.0  20.00   
+                                        STEMM             10.00  12.0  20.00   
+                2.0                     Non-STEMM          5.00  10.0  20.00   
+                                        STEMM             10.25  12.0  18.25   
+OTHER           1.0                     Non-STEMM          7.00  15.0  25.00   
+                                        STEMM             33.75  37.5  55.00   
+                2.0                     Non-STEMM          9.50  13.0  20.00   
+                                        STEMM             40.00  60.0  80.00   
+White           1.0                     Non-STEMM          6.00  12.0  20.00   
+                                        STEMM             12.75  20.0  30.00   
+                2.0                     Non-STEMM          9.00  12.0  20.00   
+                                        STEMM              8.00  15.0  20.00   
+
+                                                            max  
+Race_Categories ParentGuardianEducation Major_Categories         
+Asian           1.0                     Non-STEMM         160.0  
+                                        STEMM             120.0  
+                2.0                     Non-STEMM         160.0  
+                                        STEMM              40.0  
+Black           1.0                     Non-STEMM         100.0  
+                                        STEMM             100.0  
+                2.0                     Non-STEMM         100.0  
+                                        STEMM             100.0  
+Hispanic        1.0                     Non-STEMM          80.0  
+                                        STEMM              20.0  
+                2.0                     Non-STEMM          90.0  
+                                        STEMM              30.0  
+OTHER           1.0                     Non-STEMM         180.0  
+                                        STEMM             100.0  
+                2.0                     Non-STEMM         100.0  
+                                        STEMM             100.0  
+White           1.0                     Non-STEMM         200.0  
+                                        STEMM             120.0  
+                2.0                     Non-STEMM         350.0  
+                                        STEMM              60.0  

@@ -1,0 +1,125 @@
+                                                                count  \
+ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories           
+1.0                     1.0                  Non-STEMM          548.0   
+                                             STEMM               50.0   
+                        4.0                  Non-STEMM         1030.0   
+                                             STEMM               35.0   
+                        6.0                  Non-STEMM          286.0   
+                        7.0                  Non-STEMM            9.0   
+                                             STEMM                2.0   
+                        8.0                  Non-STEMM           91.0   
+                                             STEMM               14.0   
+2.0                     1.0                  Non-STEMM          240.0   
+                                             STEMM               29.0   
+                        4.0                  Non-STEMM          862.0   
+                                             STEMM               29.0   
+                        6.0                  Non-STEMM           23.0   
+                        7.0                  Non-STEMM            4.0   
+                                             STEMM                1.0   
+                        8.0                  Non-STEMM           38.0   
+                                             STEMM                4.0   
+
+                                                                    mean  \
+ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories              
+1.0                     1.0                  Non-STEMM         28.172445   
+                                             STEMM             29.440000   
+                        4.0                  Non-STEMM         12.378398   
+                                             STEMM             17.542857   
+                        6.0                  Non-STEMM          8.484266   
+                        7.0                  Non-STEMM         14.000000   
+                                             STEMM             13.000000   
+                        8.0                  Non-STEMM         13.879121   
+                                             STEMM             20.785714   
+2.0                     1.0                  Non-STEMM         23.743750   
+                                             STEMM             19.206897   
+                        4.0                  Non-STEMM         12.461137   
+                                             STEMM             14.482759   
+                        6.0                  Non-STEMM          8.304348   
+                        7.0                  Non-STEMM          7.250000   
+                                             STEMM              5.000000   
+                        8.0                  Non-STEMM         12.263158   
+                                             STEMM             24.000000   
+
+                                                                     std  \
+ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories              
+1.0                     1.0                  Non-STEMM         28.173754   
+                                             STEMM             29.991944   
+                        4.0                  Non-STEMM         10.336648   
+                                             STEMM             18.997435   
+                        6.0                  Non-STEMM         13.184677   
+                        7.0                  Non-STEMM         11.747340   
+                                             STEMM              9.899495   
+                        8.0                  Non-STEMM         11.644584   
+                                             STEMM             15.487854   
+2.0                     1.0                  Non-STEMM         30.386526   
+                                             STEMM             21.131188   
+                        4.0                  Non-STEMM         11.329068   
+                                             STEMM             18.554208   
+                        6.0                  Non-STEMM          5.173664   
+                        7.0                  Non-STEMM          3.201562   
+                                             STEMM                   NaN   
+                        8.0                  Non-STEMM         15.143787   
+                                             STEMM             12.000000   
+
+                                                                min    25%  \
+ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories                
+1.0                     1.0                  Non-STEMM         1.00  10.00   
+                                             STEMM             2.00  10.00   
+                        4.0                  Non-STEMM         0.25   5.00   
+                                             STEMM             1.00   5.50   
+                        6.0                  Non-STEMM         0.50   3.00   
+                        7.0                  Non-STEMM         2.00   6.00   
+                                             STEMM             6.00   9.50   
+                        8.0                  Non-STEMM         1.00   6.00   
+                                             STEMM             8.00  10.00   
+2.0                     1.0                  Non-STEMM         1.00   6.00   
+                                             STEMM             2.00   6.00   
+                        4.0                  Non-STEMM         0.50   5.00   
+                                             STEMM             1.00   6.00   
+                        6.0                  Non-STEMM         2.00   4.50   
+                        7.0                  Non-STEMM         4.00   4.75   
+                                             STEMM             5.00   5.00   
+                        8.0                  Non-STEMM         2.00   4.25   
+                                             STEMM             6.00  24.00   
+
+                                                                50%    75%  \
+ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories                
+1.0                     1.0                  Non-STEMM         20.0  40.00   
+                                             STEMM             20.0  35.00   
+                        4.0                  Non-STEMM         10.0  19.00   
+                                             STEMM             10.0  20.00   
+                        6.0                  Non-STEMM          5.0  10.00   
+                        7.0                  Non-STEMM         10.0  20.00   
+                                             STEMM             13.0  16.50   
+                        8.0                  Non-STEMM         10.0  15.50   
+                                             STEMM             15.0  20.00   
+2.0                     1.0                  Non-STEMM         19.0  40.00   
+                                             STEMM             12.0  30.00   
+                        4.0                  Non-STEMM         10.0  17.75   
+                                             STEMM             10.0  15.00   
+                        6.0                  Non-STEMM          8.0  10.00   
+                        7.0                  Non-STEMM          7.5  10.00   
+                                             STEMM              5.0   5.00   
+                        8.0                  Non-STEMM          8.0  15.00   
+                                             STEMM             30.0  30.00   
+
+                                                                 max  
+ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories         
+1.0                     1.0                  Non-STEMM         200.0  
+                                             STEMM             120.0  
+                        4.0                  Non-STEMM         100.0  
+                                             STEMM             100.0  
+                        6.0                  Non-STEMM         180.0  
+                        7.0                  Non-STEMM          40.0  
+                                             STEMM              20.0  
+                        8.0                  Non-STEMM          52.0  
+                                             STEMM              52.0  
+2.0                     1.0                  Non-STEMM         350.0  
+                                             STEMM             100.0  
+                        4.0                  Non-STEMM         160.0  
+                                             STEMM             100.0  
+                        6.0                  Non-STEMM          20.0  
+                        7.0                  Non-STEMM          10.0  
+                                             STEMM               5.0  
+                        8.0                  Non-STEMM          90.0  
+                                             STEMM              30.0  

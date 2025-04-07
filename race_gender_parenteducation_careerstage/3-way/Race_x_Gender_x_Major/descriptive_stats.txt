@@ -1,0 +1,86 @@
+                                                   count       mean  \
+Race_Categories Gender_Category Major_Categories                      
+Asian           Female          Non-STEMM          465.0  14.510753   
+                                STEMM               17.0  19.882353   
+                Male            Non-STEMM          211.0  18.625592   
+                                STEMM               12.0  26.416667   
+                Other           Non-STEMM            9.0  10.444444   
+Black           Female          Non-STEMM          393.0   9.835242   
+                                STEMM               31.0  15.290323   
+                Male            Non-STEMM          128.0  15.152344   
+                                STEMM               11.0  16.272727   
+                Other           Non-STEMM            6.0   9.833333   
+Hispanic        Female          Non-STEMM          448.0  13.379464   
+                                STEMM                8.0  13.750000   
+                Male            Non-STEMM          173.0  16.624277   
+                                STEMM               11.0  14.545455   
+                Other           Non-STEMM            8.0   6.375000   
+OTHER           Female          Non-STEMM          142.0  18.345070   
+                                STEMM                3.0  58.333333   
+                Male            Non-STEMM           84.0  21.875000   
+                                STEMM                3.0  50.000000   
+                Other           Non-STEMM            4.0  14.250000   
+White           Female          Non-STEMM         1120.0  16.585714   
+                                STEMM               48.0  20.937500   
+                Male            Non-STEMM          488.0  24.381148   
+                                STEMM               30.0  28.066667   
+                Other           Non-STEMM           24.0   9.708333   
+                                STEMM                2.0  15.500000   
+
+                                                        std    min    25%  \
+Race_Categories Gender_Category Major_Categories                            
+Asian           Female          Non-STEMM         20.124716   1.00   4.00   
+                                STEMM             28.475609   1.00   4.00   
+                Male            Non-STEMM         21.322850   1.00   7.00   
+                                STEMM             33.388780   2.00   5.00   
+                Other           Non-STEMM          5.198825   2.00  10.00   
+Black           Female          Non-STEMM         12.384507   0.25   3.00   
+                                STEMM             20.053584   1.00   6.00   
+                Male            Non-STEMM         22.657546   0.50   3.00   
+                                STEMM             15.937948   2.00   7.00   
+                Other           Non-STEMM          7.139094   1.00   4.75   
+Hispanic        Female          Non-STEMM         13.539237   0.50   5.00   
+                                STEMM              5.365232   7.00  10.00   
+                Male            Non-STEMM         21.625389   0.50   6.00   
+                                STEMM              6.562982   8.00  10.00   
+                Other           Non-STEMM          4.926242   1.00   2.00   
+OTHER           Female          Non-STEMM         19.824423   1.00   7.00   
+                                STEMM             36.170891  35.00  37.50   
+                Male            Non-STEMM         21.502854   1.00   8.00   
+                                STEMM             43.588989  20.00  25.00   
+                Other           Non-STEMM          6.751543   7.00   9.25   
+White           Female          Non-STEMM         16.580652   1.00   6.00   
+                                STEMM             18.416466   2.00  10.00   
+                Male            Non-STEMM         29.939333   1.00  10.00   
+                                STEMM             25.095587   4.00  12.00   
+                Other           Non-STEMM          9.479860   1.00   3.75   
+                                STEMM             20.506097   1.00   8.25   
+
+                                                   50%    75%    max  
+Race_Categories Gender_Category Major_Categories                      
+Asian           Female          Non-STEMM         10.0  18.00  160.0  
+                                STEMM             10.0  30.00  120.0  
+                Male            Non-STEMM         11.0  20.00  160.0  
+                                STEMM             13.5  36.25  120.0  
+                Other           Non-STEMM         10.0  12.00   20.0  
+Black           Female          Non-STEMM          5.0  10.00  100.0  
+                                STEMM              8.0  14.50  100.0  
+                Male            Non-STEMM         10.0  20.00  200.0  
+                                STEMM             10.0  18.00   52.0  
+                Other           Non-STEMM         10.0  13.75   20.0  
+Hispanic        Female          Non-STEMM         10.0  20.00  140.0  
+                                STEMM             11.5  20.00   20.0  
+                Male            Non-STEMM         10.0  20.00  160.0  
+                                STEMM             12.0  18.00   30.0  
+                Other           Non-STEMM          5.5  10.00   15.0  
+OTHER           Female          Non-STEMM         15.0  20.00  180.0  
+                                STEMM             40.0  70.00  100.0  
+                Male            Non-STEMM         16.0  26.25  100.0  
+                                STEMM             30.0  65.00  100.0  
+                Other           Non-STEMM         15.0  20.00   20.0  
+White           Female          Non-STEMM         11.5  20.00  200.0  
+                                STEMM             15.5  20.50  100.0  
+                Male            Non-STEMM         15.0  30.00  350.0  
+                                STEMM             20.0  33.75  120.0  
+                Other           Non-STEMM          5.5  10.00   40.0  
+                                STEMM             15.5  22.75   30.0  

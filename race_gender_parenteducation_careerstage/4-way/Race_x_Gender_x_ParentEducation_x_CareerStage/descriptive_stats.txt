@@ -1,0 +1,113 @@
+                                                                              count  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4          
+Asian           Female          1.0                     1.0                    67.0   
+                                                        4.0                   153.0   
+                                                        6.0                    99.0   
+                                                        7.0                     1.0   
+                                                        8.0                     8.0   
+...                                                                             ...   
+White           Male            2.0                     8.0                     2.0   
+                Other           1.0                     1.0                     2.0   
+                                                        4.0                    10.0   
+                                                        6.0                     4.0   
+                                2.0                     4.0                     6.0   
+
+                                                                                   mean  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4              
+Asian           Female          1.0                     1.0                   26.298507   
+                                                        4.0                   12.849673   
+                                                        6.0                    8.787879   
+                                                        7.0                   10.000000   
+                                                        8.0                   12.250000   
+...                                                                                 ...   
+White           Male            2.0                     8.0                    6.500000   
+                Other           1.0                     1.0                   18.000000   
+                                                        4.0                    9.300000   
+                                                        6.0                    3.250000   
+                                2.0                     4.0                   12.666667   
+
+                                                                                    std  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4              
+Asian           Female          1.0                     1.0                   39.005833   
+                                                        4.0                   14.594867   
+                                                        6.0                   11.101823   
+                                                        7.0                         NaN   
+                                                        8.0                    9.207916   
+...                                                                                 ...   
+White           Male            2.0                     8.0                    2.121320   
+                Other           1.0                     1.0                   16.970563   
+                                                        4.0                   11.205653   
+                                                        6.0                    1.258306   
+                                2.0                     4.0                    7.257180   
+
+                                                                               min  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4         
+Asian           Female          1.0                     1.0                    1.0   
+                                                        4.0                    1.0   
+                                                        6.0                    1.0   
+                                                        7.0                   10.0   
+                                                        8.0                    2.0   
+...                                                                            ...   
+White           Male            2.0                     8.0                    5.0   
+                Other           1.0                     1.0                    6.0   
+                                                        4.0                    2.0   
+                                                        6.0                    2.0   
+                                2.0                     4.0                    1.0   
+
+                                                                                25%  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4          
+Asian           Female          1.0                     1.0                    5.00   
+                                                        4.0                    5.00   
+                                                        6.0                    4.00   
+                                                        7.0                   10.00   
+                                                        8.0                    8.50   
+...                                                                             ...   
+White           Male            2.0                     8.0                    5.75   
+                Other           1.0                     1.0                   12.00   
+                                                        4.0                    4.00   
+                                                        6.0                    2.75   
+                                2.0                     4.0                   10.00   
+
+                                                                               50%  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4         
+Asian           Female          1.0                     1.0                   10.0   
+                                                        4.0                   10.0   
+                                                        6.0                    6.0   
+                                                        7.0                   10.0   
+                                                        8.0                   10.0   
+...                                                                            ...   
+White           Male            2.0                     8.0                    6.5   
+                Other           1.0                     1.0                   18.0   
+                                                        4.0                    5.0   
+                                                        6.0                    3.0   
+                                2.0                     4.0                   12.5   
+
+                                                                                75%  \
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4          
+Asian           Female          1.0                     1.0                   27.50   
+                                                        4.0                   19.00   
+                                                        6.0                   10.00   
+                                                        7.0                   10.00   
+                                                        8.0                   15.00   
+...                                                                             ...   
+White           Male            2.0                     8.0                    7.25   
+                Other           1.0                     1.0                   24.00   
+                                                        4.0                   10.00   
+                                                        6.0                    3.50   
+                                2.0                     4.0                   18.75   
+
+                                                                                max  
+Race_Categories Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4         
+Asian           Female          1.0                     1.0                   160.0  
+                                                        4.0                   150.0  
+                                                        6.0                   100.0  
+                                                        7.0                    10.0  
+                                                        8.0                    32.0  
+...                                                                             ...  
+White           Male            2.0                     8.0                     8.0  
+                Other           1.0                     1.0                    30.0  
+                                                        4.0                    40.0  
+                                                        6.0                     5.0  
+                                2.0                     4.0                    20.0  
+
+[100 rows x 8 columns]

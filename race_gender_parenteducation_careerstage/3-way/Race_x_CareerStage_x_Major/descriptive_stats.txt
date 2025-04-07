@@ -1,0 +1,195 @@
+                                                       count       mean  \
+Race_Categories CareerStage_NRMNCC_4 Major_Categories                     
+Asian           1.0                  Non-STEMM         140.0  27.303571   
+                                     STEMM              16.0  28.687500   
+                4.0                  Non-STEMM         399.0  13.591479   
+                                     STEMM               6.0  12.666667   
+                5.0                  Non-STEMM           8.0  31.750000   
+                6.0                  Non-STEMM         118.0   8.720339   
+                7.0                  Non-STEMM           4.0   8.750000   
+                                     STEMM               1.0   5.000000   
+                8.0                  Non-STEMM          20.0  13.050000   
+                                     STEMM               6.0  19.166667   
+Black           1.0                  Non-STEMM          74.0  12.121622   
+                                     STEMM              17.0  10.117647   
+                4.0                  Non-STEMM         365.0  11.362329   
+                                     STEMM              26.0  18.115385   
+                5.0                  Non-STEMM           3.0  38.000000   
+                6.0                  Non-STEMM          57.0   5.377193   
+                7.0                  Non-STEMM           3.0   5.333333   
+                                     STEMM               1.0   6.000000   
+                8.0                  Non-STEMM          43.0  14.069767   
+                                     STEMM               6.0  27.833333   
+Hispanic        1.0                  Non-STEMM          82.0  17.823171   
+                                     STEMM               4.0  11.500000   
+                4.0                  Non-STEMM         450.0  13.942222   
+                                     STEMM              12.0  13.666667   
+                5.0                  Non-STEMM          12.0  30.333333   
+                6.0                  Non-STEMM          49.0   6.785714   
+                8.0                  Non-STEMM          36.0  13.583333   
+                                     STEMM               3.0  20.000000   
+OTHER           1.0                  Non-STEMM          53.0  34.386792   
+                                     STEMM               5.0  57.000000   
+                4.0                  Non-STEMM         144.0  14.027778   
+                                     STEMM               1.0  40.000000   
+                5.0                  Non-STEMM           5.0  26.800000   
+                6.0                  Non-STEMM          21.0  20.238095   
+                8.0                  Non-STEMM           7.0  13.285714   
+White           1.0                  Non-STEMM         505.0  29.790099   
+                                     STEMM              42.0  31.000000   
+                4.0                  Non-STEMM         899.0  13.706340   
+                                     STEMM              28.0  15.000000   
+                5.0                  Non-STEMM          30.0  41.966667   
+                                     STEMM               3.0  15.666667   
+                6.0                  Non-STEMM         141.0   8.914894   
+                7.0                  Non-STEMM           6.0  17.333333   
+                                     STEMM               1.0  20.000000   
+                8.0                  Non-STEMM          53.0  14.433962   
+                                     STEMM               7.0  15.571429   
+
+                                                             std    min  \
+Race_Categories CareerStage_NRMNCC_4 Major_Categories                     
+Asian           1.0                  Non-STEMM         32.974630   1.00   
+                                     STEMM             38.520503   2.00   
+                4.0                  Non-STEMM         14.661200   1.00   
+                                     STEMM             12.176480   1.00   
+                5.0                  Non-STEMM         32.074690   4.00   
+                6.0                  Non-STEMM         10.418496   1.00   
+                7.0                  Non-STEMM          2.500000   5.00   
+                                     STEMM                   NaN   5.00   
+                8.0                  Non-STEMM         10.210804   2.00   
+                                     STEMM             13.948716   4.00   
+Black           1.0                  Non-STEMM         12.957203   1.00   
+                                     STEMM              9.486058   2.00   
+                4.0                  Non-STEMM         17.318338   0.25   
+                                     STEMM             26.553082   1.00   
+                5.0                  Non-STEMM         27.784888  20.00   
+                6.0                  Non-STEMM          4.476407   0.50   
+                7.0                  Non-STEMM          1.154701   4.00   
+                                     STEMM                   NaN   6.00   
+                8.0                  Non-STEMM         14.419556   1.00   
+                                     STEMM             20.242694   8.00   
+Hispanic        1.0                  Non-STEMM         16.627987   1.00   
+                                     STEMM              1.000000  10.00   
+                4.0                  Non-STEMM         16.175334   0.50   
+                                     STEMM              5.210712   7.00   
+                5.0                  Non-STEMM         26.130210   4.00   
+                6.0                  Non-STEMM          5.074446   0.50   
+                8.0                  Non-STEMM         15.855373   1.00   
+                                     STEMM             10.000000  10.00   
+OTHER           1.0                  Non-STEMM         25.228693   4.00   
+                                     STEMM             39.623226  20.00   
+                4.0                  Non-STEMM         10.092540   1.00   
+                                     STEMM                   NaN  40.00   
+                5.0                  Non-STEMM         16.392071   4.00   
+                6.0                  Non-STEMM         38.224213   1.00   
+                8.0                  Non-STEMM          5.089672   4.00   
+White           1.0                  Non-STEMM         29.621814   1.00   
+                                     STEMM             25.573424   4.00   
+                4.0                  Non-STEMM         10.977806   1.00   
+                                     STEMM             11.369224   1.00   
+                5.0                  Non-STEMM         46.191866   5.00   
+                                     STEMM              4.041452  12.00   
+                6.0                  Non-STEMM         15.858071   1.00   
+                7.0                  Non-STEMM         13.366625   2.00   
+                                     STEMM                   NaN  20.00   
+                8.0                  Non-STEMM          9.952791   1.00   
+                                     STEMM              7.612646   8.00   
+
+                                                         25%   50%     75%  \
+Race_Categories CareerStage_NRMNCC_4 Major_Categories                        
+Asian           1.0                  Non-STEMM          5.00  12.0   40.00   
+                                     STEMM              5.00   9.0   32.50   
+                4.0                  Non-STEMM          5.00  10.0   19.00   
+                                     STEMM              4.75  11.0   14.25   
+                5.0                  Non-STEMM          8.75  22.5   42.50   
+                6.0                  Non-STEMM          4.00   6.0   10.00   
+                7.0                  Non-STEMM          8.75  10.0   10.00   
+                                     STEMM              5.00   5.0    5.00   
+                8.0                  Non-STEMM          6.00  10.0   15.00   
+                                     STEMM              8.25  17.5   27.50   
+Black           1.0                  Non-STEMM          5.00   8.0   12.00   
+                                     STEMM              5.00   6.0   10.00   
+                4.0                  Non-STEMM          3.00   6.0   12.00   
+                                     STEMM              4.00  10.0   16.00   
+                5.0                  Non-STEMM         22.00  24.0   47.00   
+                6.0                  Non-STEMM          2.00   4.0    8.00   
+                7.0                  Non-STEMM          5.00   6.0    6.00   
+                                     STEMM              6.00   6.0    6.00   
+                8.0                  Non-STEMM          5.00  10.0   15.00   
+                                     STEMM             11.25  22.5   46.50   
+Hispanic        1.0                  Non-STEMM          5.25  12.0   20.00   
+                                     STEMM             11.50  12.0   12.00   
+                4.0                  Non-STEMM          5.00  10.0   20.00   
+                                     STEMM              9.75  12.0   20.00   
+                5.0                  Non-STEMM          9.50  21.0   44.00   
+                6.0                  Non-STEMM          3.00   5.0   10.00   
+                8.0                  Non-STEMM          5.75   9.0   16.25   
+                                     STEMM             15.00  20.0   25.00   
+OTHER           1.0                  Non-STEMM         17.50  30.0   45.00   
+                                     STEMM             30.00  35.0  100.00   
+                4.0                  Non-STEMM          6.00  10.0   20.00   
+                                     STEMM             40.00  40.0   40.00   
+                5.0                  Non-STEMM         15.00  35.0   40.00   
+                6.0                  Non-STEMM          5.00  10.0   20.00   
+                8.0                  Non-STEMM         11.50  15.0   15.50   
+White           1.0                  Non-STEMM         12.00  20.0   40.00   
+                                     STEMM             18.50  20.0   35.75   
+                4.0                  Non-STEMM          6.00  10.0   20.00   
+                                     STEMM              7.25  15.0   20.00   
+                5.0                  Non-STEMM         15.00  28.5   40.00   
+                                     STEMM             13.50  15.0   17.50   
+                6.0                  Non-STEMM          4.00   5.0   10.00   
+                7.0                  Non-STEMM          8.50  18.0   20.00   
+                                     STEMM             20.00  20.0   20.00   
+                8.0                  Non-STEMM          8.00  10.0   16.00   
+                                     STEMM             10.00  15.0   18.00   
+
+                                                         max  
+Race_Categories CareerStage_NRMNCC_4 Major_Categories         
+Asian           1.0                  Non-STEMM         160.0  
+                                     STEMM             120.0  
+                4.0                  Non-STEMM         160.0  
+                                     STEMM              35.0  
+                5.0                  Non-STEMM         100.0  
+                6.0                  Non-STEMM         100.0  
+                7.0                  Non-STEMM          10.0  
+                                     STEMM               5.0  
+                8.0                  Non-STEMM          40.0  
+                                     STEMM              40.0  
+Black           1.0                  Non-STEMM          50.0  
+                                     STEMM              40.0  
+                4.0                  Non-STEMM         200.0  
+                                     STEMM             100.0  
+                5.0                  Non-STEMM          70.0  
+                6.0                  Non-STEMM          20.0  
+                7.0                  Non-STEMM           6.0  
+                                     STEMM               6.0  
+                8.0                  Non-STEMM          52.0  
+                                     STEMM              52.0  
+Hispanic        1.0                  Non-STEMM          80.0  
+                                     STEMM              12.0  
+                4.0                  Non-STEMM         160.0  
+                                     STEMM              20.0  
+                5.0                  Non-STEMM          80.0  
+                6.0                  Non-STEMM          20.0  
+                8.0                  Non-STEMM          90.0  
+                                     STEMM              30.0  
+OTHER           1.0                  Non-STEMM         100.0  
+                                     STEMM             100.0  
+                4.0                  Non-STEMM          40.0  
+                                     STEMM              40.0  
+                5.0                  Non-STEMM          40.0  
+                6.0                  Non-STEMM         180.0  
+                8.0                  Non-STEMM          20.0  
+White           1.0                  Non-STEMM         350.0  
+                                     STEMM             120.0  
+                4.0                  Non-STEMM         120.0  
+                                     STEMM              40.0  
+                5.0                  Non-STEMM         200.0  
+                                     STEMM              20.0  
+                6.0                  Non-STEMM         180.0  
+                7.0                  Non-STEMM          40.0  
+                                     STEMM              20.0  
+                8.0                  Non-STEMM          40.0  
+                                     STEMM              30.0  

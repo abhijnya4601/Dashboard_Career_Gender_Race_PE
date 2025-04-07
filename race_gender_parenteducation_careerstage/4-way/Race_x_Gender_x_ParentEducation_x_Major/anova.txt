@@ -1,0 +1,35 @@
+                                                          sum_sq      df  \
+C(Race_Categories)                                  2.306411e-04     4.0   
+C(Gender_Category)                                           NaN     2.0   
+C(ParentGuardianEducation)                                   NaN     1.0   
+C(Major_Categories)                                          NaN     1.0   
+C(Race_Categories):C(Gender_Category)               6.091003e+03     8.0   
+C(Race_Categories):C(ParentGuardianEducation)       1.200713e+02     4.0   
+C(Gender_Category):C(ParentGuardianEducation)                NaN     2.0   
+C(Race_Categories):C(Major_Categories)              2.625115e+01     4.0   
+C(Gender_Category):C(Major_Categories)             -2.692769e-10     2.0   
+C(ParentGuardianEducation):C(Major_Categories)               NaN     1.0   
+C(Race_Categories):C(Gender_Category):C(ParentG...  2.764722e+03     8.0   
+C(Race_Categories):C(Gender_Category):C(Major_C...  2.277053e+02     8.0   
+C(Race_Categories):C(ParentGuardianEducation):C...  9.230960e+02     4.0   
+C(Gender_Category):C(ParentGuardianEducation):C...  2.999857e+02     2.0   
+C(Race_Categories):C(Gender_Category):C(ParentG...  7.109692e+03     8.0   
+Residual                                            1.178941e+06  3589.0   
+
+                                                               F    PR(>F)  
+C(Race_Categories)                                  1.755328e-07  0.999666  
+C(Gender_Category)                                           NaN       NaN  
+C(ParentGuardianEducation)                                   NaN       NaN  
+C(Major_Categories)                                          NaN       NaN  
+C(Race_Categories):C(Gender_Category)               2.317823e+00  0.054876  
+C(Race_Categories):C(ParentGuardianEducation)       9.138198e-02  0.762445  
+C(Gender_Category):C(ParentGuardianEducation)                NaN       NaN  
+C(Race_Categories):C(Major_Categories)              1.997881e-02  0.887604  
+C(Gender_Category):C(Major_Categories)             -4.098741e-13  1.000000  
+C(ParentGuardianEducation):C(Major_Categories)               NaN       NaN  
+C(Race_Categories):C(Gender_Category):C(ParentG...  1.052066e+00  0.385134  
+C(Race_Categories):C(Gender_Category):C(Major_C...  8.664918e-02  0.986605  
+C(Race_Categories):C(ParentGuardianEducation):C...  7.025355e-01  0.401989  
+C(Gender_Category):C(ParentGuardianEducation):C...  4.566168e-01  0.499253  
+C(Race_Categories):C(Gender_Category):C(ParentG...  2.705467e+00  0.019059  
+Residual                                                     NaN       NaN  

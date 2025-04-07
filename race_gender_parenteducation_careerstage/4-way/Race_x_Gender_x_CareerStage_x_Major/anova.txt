@@ -1,0 +1,35 @@
+                                                          sum_sq      df  \
+C(Race_Categories)                                  2.022489e-07     4.0   
+C(Gender_Category)                                           NaN     2.0   
+C(CareerStage_NRMNCC_4)                             4.874158e-07     5.0   
+C(Major_Categories)                                          NaN     1.0   
+C(Race_Categories):C(Gender_Category)               1.032863e-07     8.0   
+C(Race_Categories):C(CareerStage_NRMNCC_4)          9.549427e+04    20.0   
+C(Gender_Category):C(CareerStage_NRMNCC_4)          1.246045e+02    10.0   
+C(Race_Categories):C(Major_Categories)              1.675183e+03     4.0   
+C(Gender_Category):C(Major_Categories)                       NaN     2.0   
+C(CareerStage_NRMNCC_4):C(Major_Categories)         2.460423e+03     5.0   
+C(Race_Categories):C(Gender_Category):C(CareerS...  7.150735e+03    40.0   
+C(Race_Categories):C(Gender_Category):C(Major_C...  1.426996e+03     8.0   
+C(Race_Categories):C(CareerStage_NRMNCC_4):C(Ma...  3.864055e+04    20.0   
+C(Gender_Category):C(CareerStage_NRMNCC_4):C(Ma...  2.073217e+03    10.0   
+C(Race_Categories):C(Gender_Category):C(CareerS...  5.369834e+03    40.0   
+Residual                                            1.324358e+06  3776.0   
+
+                                                               F    PR(>F)  
+C(Race_Categories)                                  1.441626e-10  0.999990  
+C(Gender_Category)                                           NaN       NaN  
+C(CareerStage_NRMNCC_4)                             2.779432e-10  1.000000  
+C(Major_Categories)                                          NaN       NaN  
+C(Race_Categories):C(Gender_Category)               3.681115e-11  1.000000  
+C(Race_Categories):C(CareerStage_NRMNCC_4)          1.361362e+01  0.000228  
+C(Gender_Category):C(CareerStage_NRMNCC_4)          3.552713e-02  0.997591  
+C(Race_Categories):C(Major_Categories)              1.194067e+00  0.274580  
+C(Gender_Category):C(Major_Categories)                       NaN       NaN  
+C(CareerStage_NRMNCC_4):C(Major_Categories)         1.403028e+00  0.245980  
+C(Race_Categories):C(Gender_Category):C(CareerS...  5.097029e-01  0.884468  
+C(Race_Categories):C(Gender_Category):C(Major_C...  5.085798e-01  0.729448  
+C(Race_Categories):C(CareerStage_NRMNCC_4):C(Ma...  5.508581e+00  0.018975  
+C(Gender_Category):C(CareerStage_NRMNCC_4):C(Ma...  5.911139e-01  0.669081  
+C(Race_Categories):C(Gender_Category):C(CareerS...  3.827606e-01  0.954702  
+Residual                                                     NaN       NaN  

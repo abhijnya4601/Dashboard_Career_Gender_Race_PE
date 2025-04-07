@@ -1,0 +1,113 @@
+                                                                               count  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Asian           1.0                     1.0                  Non-STEMM          94.0   
+                                                             STEMM               7.0   
+                                        4.0                  Non-STEMM         230.0   
+                                                             STEMM               2.0   
+                                        6.0                  Non-STEMM         105.0   
+...                                                                              ...   
+White           2.0                     1.0                  STEMM              11.0   
+                                        4.0                  Non-STEMM         289.0   
+                                                             STEMM              10.0   
+                                        6.0                  Non-STEMM           2.0   
+                                        8.0                  Non-STEMM           5.0   
+
+                                                                                    mean  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories              
+Asian           1.0                     1.0                  Non-STEMM         29.446809   
+                                                             STEMM             47.571429   
+                                        4.0                  Non-STEMM         12.017391   
+                                                             STEMM              6.500000   
+                                        6.0                  Non-STEMM          8.723810   
+...                                                                                  ...   
+White           2.0                     1.0                  STEMM             23.363636   
+                                        4.0                  Non-STEMM         13.249135   
+                                                             STEMM             11.400000   
+                                        6.0                  Non-STEMM          6.500000   
+                                        8.0                  Non-STEMM          8.800000   
+
+                                                                                     std  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories              
+Asian           1.0                     1.0                  Non-STEMM         35.760138   
+                                                             STEMM             51.716719   
+                                        4.0                  Non-STEMM          8.762746   
+                                                             STEMM              4.949747   
+                                        6.0                  Non-STEMM         10.885325   
+...                                                                                  ...   
+White           2.0                     1.0                  STEMM             16.614889   
+                                        4.0                  Non-STEMM          8.726469   
+                                                             STEMM              9.335714   
+                                        6.0                  Non-STEMM          2.121320   
+                                        8.0                  Non-STEMM          3.962323   
+
+                                                                               min  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories        
+Asian           1.0                     1.0                  Non-STEMM         1.0   
+                                                             STEMM             5.0   
+                                        4.0                  Non-STEMM         1.0   
+                                                             STEMM             3.0   
+                                        6.0                  Non-STEMM         1.0   
+...                                                                            ...   
+White           2.0                     1.0                  STEMM             6.0   
+                                        4.0                  Non-STEMM         1.0   
+                                                             STEMM             1.0   
+                                        6.0                  Non-STEMM         5.0   
+                                        8.0                  Non-STEMM         5.0   
+
+                                                                                 25%  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Asian           1.0                     1.0                  Non-STEMM          5.00   
+                                                             STEMM              9.00   
+                                        4.0                  Non-STEMM          5.00   
+                                                             STEMM              4.75   
+                                        6.0                  Non-STEMM          4.00   
+...                                                                              ...   
+White           2.0                     1.0                  STEMM             11.00   
+                                        4.0                  Non-STEMM          7.00   
+                                                             STEMM              3.50   
+                                        6.0                  Non-STEMM          5.75   
+                                        8.0                  Non-STEMM          6.00   
+
+                                                                                50%  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories         
+Asian           1.0                     1.0                  Non-STEMM         15.5   
+                                                             STEMM             20.0   
+                                        4.0                  Non-STEMM         10.0   
+                                                             STEMM              6.5   
+                                        6.0                  Non-STEMM          6.0   
+...                                                                             ...   
+White           2.0                     1.0                  STEMM             20.0   
+                                        4.0                  Non-STEMM         10.0   
+                                                             STEMM             10.0   
+                                        6.0                  Non-STEMM          6.5   
+                                        8.0                  Non-STEMM          8.0   
+
+                                                                                 75%  \
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Asian           1.0                     1.0                  Non-STEMM         40.00   
+                                                             STEMM             85.00   
+                                        4.0                  Non-STEMM         19.00   
+                                                             STEMM              8.25   
+                                        6.0                  Non-STEMM         10.00   
+...                                                                              ...   
+White           2.0                     1.0                  STEMM             32.50   
+                                        4.0                  Non-STEMM         20.00   
+                                                             STEMM             15.00   
+                                        6.0                  Non-STEMM          7.25   
+                                        8.0                  Non-STEMM         10.00   
+
+                                                                                 max  
+Race_Categories ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories         
+Asian           1.0                     1.0                  Non-STEMM         160.0  
+                                                             STEMM             120.0  
+                                        4.0                  Non-STEMM          40.0  
+                                                             STEMM              10.0  
+                                        6.0                  Non-STEMM         100.0  
+...                                                                              ...  
+White           2.0                     1.0                  STEMM              60.0  
+                                        4.0                  Non-STEMM          40.0  
+                                                             STEMM              31.0  
+                                        6.0                  Non-STEMM           8.0  
+                                        8.0                  Non-STEMM          15.0  
+
+[74 rows x 8 columns]

@@ -1,0 +1,19 @@
+                                                          sum_sq      df  \
+C(Race_Categories)                                  1.370932e+03     4.0   
+C(Gender_Category)                                  7.972429e-07     2.0   
+C(CareerStage_NRMNCC_4)                             1.510538e+04     5.0   
+C(Race_Categories):C(Gender_Category)               1.193783e+03     8.0   
+C(Race_Categories):C(CareerStage_NRMNCC_4)          1.027418e+04    20.0   
+C(Gender_Category):C(CareerStage_NRMNCC_4)          9.705218e+03    10.0   
+C(Race_Categories):C(Gender_Category):C(CareerS...  4.373348e+03    40.0   
+Residual                                            1.543439e+06  3927.0   
+
+                                                               F    PR(>F)  
+C(Race_Categories)                                  8.720219e-01  0.418186  
+C(Gender_Category)                                  1.014220e-09  0.999975  
+C(CareerStage_NRMNCC_4)                             7.686578e+00  0.000040  
+C(Race_Categories):C(Gender_Category)               3.796705e-01  0.823311  
+C(Race_Categories):C(CareerStage_NRMNCC_4)          1.307040e+00  0.234825  
+C(Gender_Category):C(CareerStage_NRMNCC_4)          2.469316e+00  0.060133  
+C(Race_Categories):C(Gender_Category):C(CareerS...  2.781797e-01  0.999807  
+Residual                                                     NaN       NaN  

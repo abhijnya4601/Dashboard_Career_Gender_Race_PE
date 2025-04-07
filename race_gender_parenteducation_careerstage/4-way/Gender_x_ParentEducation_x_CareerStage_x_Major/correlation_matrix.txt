@@ -1,0 +1,20 @@
+                         Gender_Category  ParentGuardianEducation  \
+Gender_Category                 1.000000                -0.032232   
+ParentGuardianEducation        -0.032232                 1.000000   
+CareerStage_NRMNCC_4           -0.128985                -0.054725   
+Major_Categories                0.026794                 0.000373   
+Freq_Ment2_Hours_Clean          0.128523                -0.051716   
+
+                         CareerStage_NRMNCC_4  Major_Categories  \
+Gender_Category                     -0.128985          0.026794   
+ParentGuardianEducation             -0.054725          0.000373   
+CareerStage_NRMNCC_4                 1.000000         -0.022736   
+Major_Categories                    -0.022736          1.000000   
+Freq_Ment2_Hours_Clean              -0.227951          0.062578   
+
+                         Freq_Ment2_Hours_Clean  
+Gender_Category                        0.128523  
+ParentGuardianEducation               -0.051716  
+CareerStage_NRMNCC_4                  -0.227951  
+Major_Categories                       0.062578  
+Freq_Ment2_Hours_Clean                 1.000000  

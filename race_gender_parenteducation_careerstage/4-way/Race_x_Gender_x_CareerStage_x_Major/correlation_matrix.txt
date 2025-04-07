@@ -1,0 +1,20 @@
+                        Race_Categories  Gender_Category  \
+Race_Categories                1.000000         0.019435   
+Gender_Category                0.019435         1.000000   
+CareerStage_NRMNCC_4          -0.115497        -0.114569   
+Major_Categories              -0.007274         0.035079   
+Freq_Ment2_Hours_Clean         0.104555         0.110578   
+
+                        CareerStage_NRMNCC_4  Major_Categories  \
+Race_Categories                    -0.115497         -0.007274   
+Gender_Category                    -0.114569          0.035079   
+CareerStage_NRMNCC_4                1.000000         -0.013762   
+Major_Categories                   -0.013762          1.000000   
+Freq_Ment2_Hours_Clean             -0.175322          0.052427   
+
+                        Freq_Ment2_Hours_Clean  
+Race_Categories                       0.104555  
+Gender_Category                       0.110578  
+CareerStage_NRMNCC_4                 -0.175322  
+Major_Categories                      0.052427  
+Freq_Ment2_Hours_Clean                1.000000  

@@ -1,0 +1,35 @@
+                                                           sum_sq      df  \
+C(Gender_Category)                                       4.585933     2.0   
+C(ParentGuardianEducation)                                    NaN     1.0   
+C(CareerStage_NRMNCC_4)                             276484.717771     4.0   
+C(Major_Categories)                                           NaN     1.0   
+C(Gender_Category):C(ParentGuardianEducation)            0.000001     2.0   
+C(Gender_Category):C(CareerStage_NRMNCC_4)            9593.590160     8.0   
+C(ParentGuardianEducation):C(CareerStage_NRMNCC_4)    1939.547268     4.0   
+C(Gender_Category):C(Major_Categories)                  93.577340     2.0   
+C(ParentGuardianEducation):C(Major_Categories)                NaN     1.0   
+C(CareerStage_NRMNCC_4):C(Major_Categories)           1713.189086     4.0   
+C(Gender_Category):C(ParentGuardianEducation):C...     754.952761     8.0   
+C(Gender_Category):C(ParentGuardianEducation):C...      20.684763     2.0   
+C(Gender_Category):C(CareerStage_NRMNCC_4):C(Ma...    1217.220008     8.0   
+C(ParentGuardianEducation):C(CareerStage_NRMNCC...     152.151352     4.0   
+C(Gender_Category):C(ParentGuardianEducation):C...     387.975629     8.0   
+Residual                                            993893.181028  3212.0   
+
+                                                               F        PR(>F)  
+C(Gender_Category)                                  7.410261e-03  9.314059e-01  
+C(ParentGuardianEducation)                                   NaN           NaN  
+C(CareerStage_NRMNCC_4)                             2.233814e+02  1.467935e-91  
+C(Major_Categories)                                          NaN           NaN  
+C(Gender_Category):C(ParentGuardianEducation)       1.719948e-09  9.999669e-01  
+C(Gender_Category):C(CareerStage_NRMNCC_4)          3.875493e+00  3.820250e-03  
+C(ParentGuardianEducation):C(CareerStage_NRMNCC_4)  1.567026e+00  2.107306e-01  
+C(Gender_Category):C(Major_Categories)              1.512086e-01  6.974088e-01  
+C(ParentGuardianEducation):C(Major_Categories)               NaN           NaN  
+C(CareerStage_NRMNCC_4):C(Major_Categories)         1.384144e+00  2.394838e-01  
+C(Gender_Category):C(ParentGuardianEducation):C...  3.049760e-01  8.747863e-01  
+C(Gender_Category):C(ParentGuardianEducation):C...  3.342384e-02  8.549493e-01  
+C(Gender_Category):C(CareerStage_NRMNCC_4):C(Ma...  4.917167e-01  6.880427e-01  
+C(ParentGuardianEducation):C(CareerStage_NRMNCC...  1.229282e-01  7.259030e-01  
+C(Gender_Category):C(ParentGuardianEducation):C...  1.567293e-01  9.600108e-01  
+Residual                                                     NaN           NaN  

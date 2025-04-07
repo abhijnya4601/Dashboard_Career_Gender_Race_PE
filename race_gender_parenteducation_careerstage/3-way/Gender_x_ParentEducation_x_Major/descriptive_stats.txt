@@ -1,0 +1,55 @@
+                                                           count       mean  \
+Gender_Category ParentGuardianEducation Major_Categories                      
+Female          1.0                     Non-STEMM         1324.0  14.330249   
+                                        STEMM               60.0  23.266667   
+                2.0                     Non-STEMM          825.0  13.189697   
+                                        STEMM               37.0  14.459459   
+Male            1.0                     Non-STEMM          594.0  21.209596   
+                                        STEMM               37.0  25.891892   
+                2.0                     Non-STEMM          320.0  18.592188   
+                                        STEMM               20.0  20.400000   
+Other           1.0                     Non-STEMM           25.0   9.240000   
+                2.0                     Non-STEMM           12.0  10.416667   
+                                        STEMM                1.0   1.000000   
+
+                                                                std   min  \
+Gender_Category ParentGuardianEducation Major_Categories                    
+Female          1.0                     Non-STEMM         16.705265  0.25   
+                                        STEMM             26.634925  2.00   
+                2.0                     Non-STEMM         11.207176  1.00   
+                                        STEMM             10.854069  1.00   
+Male            1.0                     Non-STEMM         23.352066  1.00   
+                                        STEMM             23.425750  2.00   
+                2.0                     Non-STEMM         27.808629  0.50   
+                                        STEMM             23.882167  2.00   
+Other           1.0                     Non-STEMM          8.550244  1.00   
+                2.0                     Non-STEMM          6.006940  1.00   
+                                        STEMM                   NaN  1.00   
+
+                                                            25%   50%    75%  \
+Gender_Category ParentGuardianEducation Major_Categories                       
+Female          1.0                     Non-STEMM          5.00  10.0  20.00   
+                                        STEMM              7.75  15.0  22.00   
+                2.0                     Non-STEMM          5.00  10.0  20.00   
+                                        STEMM              6.00  11.0  20.00   
+Male            1.0                     Non-STEMM          8.00  15.0  25.00   
+                                        STEMM             10.00  20.0  30.00   
+                2.0                     Non-STEMM          5.00  10.0  20.00   
+                                        STEMM              5.75  11.0  30.00   
+Other           1.0                     Non-STEMM          4.00   6.0  10.00   
+                2.0                     Non-STEMM          8.75  10.0  12.75   
+                                        STEMM              1.00   1.0   1.00   
+
+                                                            max  
+Gender_Category ParentGuardianEducation Major_Categories         
+Female          1.0                     Non-STEMM         180.0  
+                                        STEMM             120.0  
+                2.0                     Non-STEMM          90.0  
+                                        STEMM              40.0  
+Male            1.0                     Non-STEMM         200.0  
+                                        STEMM             120.0  
+                2.0                     Non-STEMM         350.0  
+                                        STEMM             100.0  
+Other           1.0                     Non-STEMM          40.0  
+                2.0                     Non-STEMM          20.0  
+                                        STEMM               1.0  

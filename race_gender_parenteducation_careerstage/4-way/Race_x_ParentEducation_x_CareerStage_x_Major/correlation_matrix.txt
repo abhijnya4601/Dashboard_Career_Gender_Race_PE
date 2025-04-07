@@ -1,0 +1,20 @@
+                         Race_Categories  ParentGuardianEducation  \
+Race_Categories                 1.000000                -0.089328   
+ParentGuardianEducation        -0.089328                 1.000000   
+CareerStage_NRMNCC_4           -0.134175                -0.060417   
+Major_Categories               -0.017274                -0.005135   
+Freq_Ment2_Hours_Clean          0.114498                -0.046661   
+
+                         CareerStage_NRMNCC_4  Major_Categories  \
+Race_Categories                     -0.134175         -0.017274   
+ParentGuardianEducation             -0.060417         -0.005135   
+CareerStage_NRMNCC_4                 1.000000         -0.024924   
+Major_Categories                    -0.024924          1.000000   
+Freq_Ment2_Hours_Clean              -0.228039          0.068510   
+
+                         Freq_Ment2_Hours_Clean  
+Race_Categories                        0.114498  
+ParentGuardianEducation               -0.046661  
+CareerStage_NRMNCC_4                  -0.228039  
+Major_Categories                       0.068510  
+Freq_Ment2_Hours_Clean                 1.000000  

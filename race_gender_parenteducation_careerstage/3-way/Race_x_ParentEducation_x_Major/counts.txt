@@ -1,0 +1,21 @@
+Race_Categories  ParentGuardianEducation Major_Categories  Count
+          Asian                      1.0        Non-STEMM    442
+          Asian                      1.0            STEMM     12
+          Asian                      2.0        Non-STEMM    206
+          Asian                      2.0            STEMM     15
+          Black                      1.0        Non-STEMM    314
+          Black                      1.0            STEMM     34
+          Black                      2.0        Non-STEMM    202
+          Black                      2.0            STEMM     16
+       Hispanic                      1.0        Non-STEMM    196
+       Hispanic                      1.0            STEMM      9
+       Hispanic                      2.0        Non-STEMM    389
+       Hispanic                      2.0            STEMM     10
+          OTHER                      1.0        Non-STEMM    129
+          OTHER                      1.0            STEMM      4
+          OTHER                      2.0        Non-STEMM     83
+          OTHER                      2.0            STEMM      2
+          White                      1.0        Non-STEMM   1112
+          White                      1.0            STEMM     54
+          White                      2.0        Non-STEMM    425
+          White                      2.0            STEMM     21

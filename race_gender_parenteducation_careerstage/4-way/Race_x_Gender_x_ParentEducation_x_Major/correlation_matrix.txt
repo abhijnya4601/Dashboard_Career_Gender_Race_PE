@@ -1,0 +1,20 @@
+                         Race_Categories  Gender_Category  \
+Race_Categories                 1.000000         0.015850   
+Gender_Category                 0.015850         1.000000   
+ParentGuardianEducation        -0.090323        -0.029190   
+Major_Categories               -0.011218         0.029396   
+Freq_Ment2_Hours_Clean          0.115386         0.121510   
+
+                         ParentGuardianEducation  Major_Categories  \
+Race_Categories                        -0.090323         -0.011218   
+Gender_Category                        -0.029190          0.029396   
+ParentGuardianEducation                 1.000000         -0.009679   
+Major_Categories                       -0.009679          1.000000   
+Freq_Ment2_Hours_Clean                 -0.049941          0.067810   
+
+                         Freq_Ment2_Hours_Clean  
+Race_Categories                        0.115386  
+Gender_Category                        0.121510  
+ParentGuardianEducation               -0.049941  
+Major_Categories                       0.067810  
+Freq_Ment2_Hours_Clean                 1.000000  

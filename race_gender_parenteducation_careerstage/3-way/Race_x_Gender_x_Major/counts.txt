@@ -1,0 +1,27 @@
+Race_Categories Gender_Category Major_Categories  Count
+          Asian          Female        Non-STEMM    465
+          Asian          Female            STEMM     17
+          Asian            Male        Non-STEMM    211
+          Asian            Male            STEMM     12
+          Asian           Other        Non-STEMM      9
+          Black          Female        Non-STEMM    393
+          Black          Female            STEMM     31
+          Black            Male        Non-STEMM    128
+          Black            Male            STEMM     11
+          Black           Other        Non-STEMM      6
+       Hispanic          Female        Non-STEMM    448
+       Hispanic          Female            STEMM      8
+       Hispanic            Male        Non-STEMM    173
+       Hispanic            Male            STEMM     11
+       Hispanic           Other        Non-STEMM      8
+          OTHER          Female        Non-STEMM    142
+          OTHER          Female            STEMM      3
+          OTHER            Male        Non-STEMM     84
+          OTHER            Male            STEMM      3
+          OTHER           Other        Non-STEMM      4
+          White          Female        Non-STEMM   1120
+          White          Female            STEMM     48
+          White            Male        Non-STEMM    488
+          White            Male            STEMM     30
+          White           Other        Non-STEMM     24
+          White           Other            STEMM      2

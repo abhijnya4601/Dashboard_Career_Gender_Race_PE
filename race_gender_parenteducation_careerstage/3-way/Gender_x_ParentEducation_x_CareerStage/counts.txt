@@ -1,0 +1,27 @@
+Gender_Category  ParentGuardianEducation  CareerStage_NRMNCC_4  Count
+         Female                      1.0                   1.0    357
+         Female                      1.0                   4.0    761
+         Female                      1.0                   6.0    258
+         Female                      1.0                   7.0      5
+         Female                      1.0                   8.0     75
+         Female                      2.0                   1.0    171
+         Female                      2.0                   4.0    677
+         Female                      2.0                   6.0     12
+         Female                      2.0                   7.0      3
+         Female                      2.0                   8.0     30
+           Male                      1.0                   1.0    282
+           Male                      1.0                   4.0    325
+           Male                      1.0                   6.0     18
+           Male                      1.0                   7.0      4
+           Male                      1.0                   8.0     26
+           Male                      2.0                   1.0    128
+           Male                      2.0                   4.0    183
+           Male                      2.0                   6.0     10
+           Male                      2.0                   7.0      2
+           Male                      2.0                   8.0     12
+          Other                      1.0                   1.0      2
+          Other                      1.0                   4.0     16
+          Other                      1.0                   6.0      5
+          Other                      1.0                   8.0      1
+          Other                      2.0                   4.0     12
+          Other                      2.0                   6.0      1

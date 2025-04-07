@@ -1,0 +1,19 @@
+                                                          sum_sq      df  \
+C(Race_Categories)                                  2.341357e+04     4.0   
+C(Gender_Category)                                  3.248635e+02     2.0   
+C(ParentGuardianEducation)                                   NaN     1.0   
+C(Race_Categories):C(Gender_Category)               1.719007e+03     8.0   
+C(Race_Categories):C(ParentGuardianEducation)       4.031896e+02     4.0   
+C(Gender_Category):C(ParentGuardianEducation)       3.892786e+02     2.0   
+C(Race_Categories):C(Gender_Category):C(ParentG...  1.359061e+03     8.0   
+Residual                                            1.384267e+06  3743.0   
+
+                                                            F        PR(>F)  
+C(Race_Categories)                                  15.827326  3.167325e-10  
+C(Gender_Category)                                   0.439209  5.075455e-01  
+C(ParentGuardianEducation)                                NaN           NaN  
+C(Race_Categories):C(Gender_Category)                0.581015  7.719577e-01  
+C(Race_Categories):C(ParentGuardianEducation)        0.272552  8.452347e-01  
+C(Gender_Category):C(ParentGuardianEducation)        0.526296  4.682135e-01  
+C(Race_Categories):C(Gender_Category):C(ParentG...   0.459355  8.643025e-01  
+Residual                                                  NaN           NaN  

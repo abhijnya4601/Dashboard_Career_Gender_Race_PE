@@ -1,0 +1,123 @@
+                                                        count       mean  \
+Gender_Category CareerStage_NRMNCC_4 Major_Categories                      
+Female          1.0                  Non-STEMM          422.0  23.129147   
+                                     STEMM               43.0  24.069767   
+                4.0                  Non-STEMM         1435.0  12.972648   
+                                     STEMM               44.0  16.204545   
+                5.0                  Non-STEMM           41.0  37.195122   
+                                     STEMM                2.0  17.500000   
+                6.0                  Non-STEMM          291.0   8.575601   
+                7.0                  Non-STEMM            7.0  11.142857   
+                                     STEMM                1.0   6.000000   
+                8.0                  Non-STEMM          102.0  14.156863   
+                                     STEMM               11.0  17.363636   
+Male            1.0                  Non-STEMM          368.0  31.414402   
+                                     STEMM               36.0  28.166667   
+                4.0                  Non-STEMM          505.0  14.771287   
+                                     STEMM               12.0  14.083333   
+                5.0                  Non-STEMM           10.0  36.800000   
+                                     STEMM                1.0  12.000000   
+                6.0                  Non-STEMM           32.0   7.781250   
+                7.0                  Non-STEMM            6.0  12.833333   
+                                     STEMM                2.0  12.500000   
+                8.0                  Non-STEMM           40.0  13.600000   
+                                     STEMM                9.0  23.333333   
+Other           1.0                  Non-STEMM            1.0   6.000000   
+                4.0                  Non-STEMM           30.0  10.300000   
+                                     STEMM                1.0   1.000000   
+                6.0                  Non-STEMM            6.0   6.333333   
+                8.0                  Non-STEMM            3.0  15.333333   
+                                     STEMM                1.0  30.000000   
+
+                                                             std    min  \
+Gender_Category CareerStage_NRMNCC_4 Major_Categories                     
+Female          1.0                  Non-STEMM         23.436689   1.00   
+                                     STEMM             27.414278   3.00   
+                4.0                  Non-STEMM         12.072545   0.25   
+                                     STEMM             17.361518   1.00   
+                5.0                  Non-STEMM         38.254555   4.00   
+                                     STEMM              3.535534  15.00   
+                6.0                  Non-STEMM         13.274143   0.50   
+                7.0                  Non-STEMM          5.145502   6.00   
+                                     STEMM                   NaN   6.00   
+                8.0                  Non-STEMM         13.156894   1.00   
+                                     STEMM             14.437955   4.00   
+Male            1.0                  Non-STEMM         33.651891   1.00   
+                                     STEMM             27.658633   2.00   
+                4.0                  Non-STEMM         18.499937   0.50   
+                                     STEMM              8.005207   4.00   
+                5.0                  Non-STEMM         45.754903   8.00   
+                                     STEMM                   NaN  12.00   
+                6.0                  Non-STEMM          5.065598   1.00   
+                7.0                  Non-STEMM         14.784000   2.00   
+                                     STEMM             10.606602   5.00   
+                8.0                  Non-STEMM         12.097467   1.00   
+                                     STEMM             14.654351   8.00   
+Other           1.0                  Non-STEMM               NaN   6.00   
+                4.0                  Non-STEMM          8.242656   1.00   
+                                     STEMM                   NaN   1.00   
+                6.0                  Non-STEMM          5.125102   2.00   
+                8.0                  Non-STEMM         12.858201   6.00   
+                                     STEMM                   NaN  30.00   
+
+                                                         25%   50%    75%  \
+Gender_Category CareerStage_NRMNCC_4 Major_Categories                       
+Female          1.0                  Non-STEMM          6.25  20.0  30.00   
+                                     STEMM              6.00  18.0  26.00   
+                4.0                  Non-STEMM          5.00  10.0  20.00   
+                                     STEMM              6.00  10.0  20.00   
+                5.0                  Non-STEMM         10.00  25.0  40.00   
+                                     STEMM             16.25  17.5  18.75   
+                6.0                  Non-STEMM          3.00   5.0  10.00   
+                7.0                  Non-STEMM          8.00  10.0  13.00   
+                                     STEMM              6.00   6.0   6.00   
+                8.0                  Non-STEMM          6.00  10.0  15.00   
+                                     STEMM              9.00  10.0  23.00   
+Male            1.0                  Non-STEMM         10.00  20.0  40.00   
+                                     STEMM             10.00  20.0  36.25   
+                4.0                  Non-STEMM          5.00  10.0  20.00   
+                                     STEMM              9.75  12.5  16.75   
+                5.0                  Non-STEMM         12.00  21.0  39.50   
+                                     STEMM             12.00  12.0  12.00   
+                6.0                  Non-STEMM          3.00   7.5  10.00   
+                7.0                  Non-STEMM          4.25   5.5  16.50   
+                                     STEMM              8.75  12.5  16.25   
+                8.0                  Non-STEMM          5.00   8.0  20.00   
+                                     STEMM             15.00  20.0  30.00   
+Other           1.0                  Non-STEMM          6.00   6.0   6.00   
+                4.0                  Non-STEMM          4.25  10.0  11.50   
+                                     STEMM              1.00   1.0   1.00   
+                6.0                  Non-STEMM          3.00   4.0   8.75   
+                8.0                  Non-STEMM          8.00  10.0  20.00   
+                                     STEMM             30.00  30.0  30.00   
+
+                                                         max  
+Gender_Category CareerStage_NRMNCC_4 Major_Categories         
+Female          1.0                  Non-STEMM         160.0  
+                                     STEMM             120.0  
+                4.0                  Non-STEMM         140.0  
+                                     STEMM             100.0  
+                5.0                  Non-STEMM         200.0  
+                                     STEMM              20.0  
+                6.0                  Non-STEMM         180.0  
+                7.0                  Non-STEMM          20.0  
+                                     STEMM               6.0  
+                8.0                  Non-STEMM          90.0  
+                                     STEMM              52.0  
+Male            1.0                  Non-STEMM         350.0  
+                                     STEMM             120.0  
+                4.0                  Non-STEMM         200.0  
+                                     STEMM              35.0  
+                5.0                  Non-STEMM         160.0  
+                                     STEMM              12.0  
+                6.0                  Non-STEMM          20.0  
+                7.0                  Non-STEMM          40.0  
+                                     STEMM              20.0  
+                8.0                  Non-STEMM          52.0  
+                                     STEMM              52.0  
+Other           1.0                  Non-STEMM           6.0  
+                4.0                  Non-STEMM          40.0  
+                                     STEMM               1.0  
+                6.0                  Non-STEMM          15.0  
+                8.0                  Non-STEMM          30.0  
+                                     STEMM              30.0  

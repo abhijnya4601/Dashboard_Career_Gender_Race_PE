@@ -1,0 +1,12 @@
+Gender_Category  ParentGuardianEducation Major_Categories  Count
+         Female                      1.0        Non-STEMM   1324
+         Female                      1.0            STEMM     60
+         Female                      2.0        Non-STEMM    825
+         Female                      2.0            STEMM     37
+           Male                      1.0        Non-STEMM    594
+           Male                      1.0            STEMM     37
+           Male                      2.0        Non-STEMM    320
+           Male                      2.0            STEMM     20
+          Other                      1.0        Non-STEMM     25
+          Other                      2.0        Non-STEMM     12
+          Other                      2.0            STEMM      1

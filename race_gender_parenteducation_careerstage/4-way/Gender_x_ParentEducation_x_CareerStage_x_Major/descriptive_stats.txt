@@ -1,0 +1,359 @@
+                                                                               count  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Female          1.0                     1.0                  Non-STEMM         292.0   
+                                                             STEMM              28.0   
+                                        4.0                  Non-STEMM         703.0   
+                                                             STEMM              25.0   
+                                        6.0                  Non-STEMM         258.0   
+                                        7.0                  Non-STEMM           5.0   
+                                                             STEMM               1.0   
+                                        8.0                  Non-STEMM          65.0   
+                                                             STEMM               6.0   
+                2.0                     1.0                  Non-STEMM         124.0   
+                                                             STEMM              15.0   
+                                        4.0                  Non-STEMM         659.0   
+                                                             STEMM              19.0   
+                                        6.0                  Non-STEMM          12.0   
+                                        7.0                  Non-STEMM           2.0   
+                                        8.0                  Non-STEMM          28.0   
+                                                             STEMM               3.0   
+Male            1.0                     1.0                  Non-STEMM         252.0   
+                                                             STEMM              22.0   
+                                        4.0                  Non-STEMM         295.0   
+                                                             STEMM               6.0   
+                                        6.0                  Non-STEMM          18.0   
+                                        7.0                  Non-STEMM           4.0   
+                                                             STEMM               1.0   
+                                        8.0                  Non-STEMM          25.0   
+                                                             STEMM               8.0   
+                2.0                     1.0                  Non-STEMM         115.0   
+                                                             STEMM              13.0   
+                                        4.0                  Non-STEMM         183.0   
+                                                             STEMM               5.0   
+                                        6.0                  Non-STEMM          10.0   
+                                        7.0                  Non-STEMM           2.0   
+                                                             STEMM               1.0   
+                                        8.0                  Non-STEMM          10.0   
+                                                             STEMM               1.0   
+Other           1.0                     1.0                  Non-STEMM           1.0   
+                                        4.0                  Non-STEMM          18.0   
+                                        6.0                  Non-STEMM           5.0   
+                                        8.0                  Non-STEMM           1.0   
+                2.0                     4.0                  Non-STEMM          11.0   
+                                                             STEMM               1.0   
+                                        6.0                  Non-STEMM           1.0   
+
+                                                                                    mean  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories              
+Female          1.0                     1.0                  Non-STEMM         24.660959   
+                                                             STEMM             28.321429   
+                                        4.0                  Non-STEMM         12.200213   
+                                                             STEMM             19.440000   
+                                        6.0                  Non-STEMM          8.614341   
+                                        7.0                  Non-STEMM         11.600000   
+                                                             STEMM              6.000000   
+                                        8.0                  Non-STEMM         14.030769   
+                                                             STEMM             18.500000   
+                2.0                     1.0                  Non-STEMM         18.721774   
+                                                             STEMM             16.133333   
+                                        4.0                  Non-STEMM         12.248862   
+                                                             STEMM             11.947368   
+                                        6.0                  Non-STEMM          8.166667   
+                                        7.0                  Non-STEMM         10.000000   
+                                        8.0                  Non-STEMM         13.214286   
+                                                             STEMM             22.000000   
+Male            1.0                     1.0                  Non-STEMM         32.394841   
+                                                             STEMM             30.863636   
+                                        4.0                  Non-STEMM         13.149153   
+                                                             STEMM             13.166667   
+                                        6.0                  Non-STEMM          7.944444   
+                                        7.0                  Non-STEMM         17.000000   
+                                                             STEMM             20.000000   
+                                        8.0                  Non-STEMM         13.800000   
+                                                             STEMM             22.500000   
+                2.0                     1.0                  Non-STEMM         29.191304   
+                                                             STEMM             22.692308   
+                                        4.0                  Non-STEMM         13.139344   
+                                                             STEMM             15.600000   
+                                        6.0                  Non-STEMM          8.300000   
+                                        7.0                  Non-STEMM          4.500000   
+                                                             STEMM              5.000000   
+                                        8.0                  Non-STEMM          9.600000   
+                                                             STEMM             30.000000   
+Other           1.0                     1.0                  Non-STEMM          6.000000   
+                                        4.0                  Non-STEMM         10.611111   
+                                        6.0                  Non-STEMM          5.600000   
+                                        8.0                  Non-STEMM          6.000000   
+                2.0                     4.0                  Non-STEMM         10.454545   
+                                                             STEMM              1.000000   
+                                        6.0                  Non-STEMM         10.000000   
+
+                                                                                     std  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories              
+Female          1.0                     1.0                  Non-STEMM         25.695376   
+                                                             STEMM             32.055569   
+                                        4.0                  Non-STEMM         10.467092   
+                                                             STEMM             21.602623   
+                                        6.0                  Non-STEMM         13.776831   
+                                        7.0                  Non-STEMM          6.228965   
+                                                             STEMM                   NaN   
+                                        8.0                  Non-STEMM         11.368775   
+                                                             STEMM             16.706286   
+                2.0                     1.0                  Non-STEMM         16.193608   
+                                                             STEMM             13.010252   
+                                        4.0                  Non-STEMM          9.438546   
+                                                             STEMM              8.010227   
+                                        6.0                  Non-STEMM          5.201981   
+                                        7.0                  Non-STEMM          0.000000   
+                                        8.0                  Non-STEMM         16.802463   
+                                                             STEMM             13.856406   
+Male            1.0                     1.0                  Non-STEMM         30.458316   
+                                                             STEMM             27.819650   
+                                        4.0                  Non-STEMM         10.104797   
+                                                             STEMM              6.210207   
+                                        6.0                  Non-STEMM          5.104464   
+                                        7.0                  Non-STEMM         17.165858   
+                                                             STEMM                   NaN   
+                                        8.0                  Non-STEMM         12.695143   
+                                                             STEMM             15.436506   
+                2.0                     1.0                  Non-STEMM         39.941821   
+                                                             STEMM             28.625119   
+                                        4.0                  Non-STEMM         15.395642   
+                                                             STEMM             11.081516   
+                                        6.0                  Non-STEMM          5.657836   
+                                        7.0                  Non-STEMM          0.707107   
+                                                             STEMM                   NaN   
+                                        8.0                  Non-STEMM          9.227977   
+                                                             STEMM                   NaN   
+Other           1.0                     1.0                  Non-STEMM               NaN   
+                                        4.0                  Non-STEMM          9.450421   
+                                        6.0                  Non-STEMM          5.366563   
+                                        8.0                  Non-STEMM               NaN   
+                2.0                     4.0                  Non-STEMM          6.298629   
+                                                             STEMM                   NaN   
+                                        6.0                  Non-STEMM               NaN   
+
+                                                                                 min  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Female          1.0                     1.0                  Non-STEMM          1.00   
+                                                             STEMM              3.00   
+                                        4.0                  Non-STEMM          0.25   
+                                                             STEMM              2.00   
+                                        6.0                  Non-STEMM          0.50   
+                                        7.0                  Non-STEMM          6.00   
+                                                             STEMM              6.00   
+                                        8.0                  Non-STEMM          1.00   
+                                                             STEMM              8.00   
+                2.0                     1.0                  Non-STEMM          1.00   
+                                                             STEMM              3.00   
+                                        4.0                  Non-STEMM          1.00   
+                                                             STEMM              1.00   
+                                        6.0                  Non-STEMM          2.00   
+                                        7.0                  Non-STEMM         10.00   
+                                        8.0                  Non-STEMM          2.00   
+                                                             STEMM              6.00   
+Male            1.0                     1.0                  Non-STEMM          1.00   
+                                                             STEMM              2.00   
+                                        4.0                  Non-STEMM          1.00   
+                                                             STEMM              4.00   
+                                        6.0                  Non-STEMM          1.00   
+                                        7.0                  Non-STEMM          2.00   
+                                                             STEMM             20.00   
+                                        8.0                  Non-STEMM          1.00   
+                                                             STEMM              8.00   
+                2.0                     1.0                  Non-STEMM          1.00   
+                                                             STEMM              2.00   
+                                        4.0                  Non-STEMM          0.50   
+                                                             STEMM              8.00   
+                                        6.0                  Non-STEMM          3.00   
+                                        7.0                  Non-STEMM          4.00   
+                                                             STEMM              5.00   
+                                        8.0                  Non-STEMM          2.00   
+                                                             STEMM             30.00   
+Other           1.0                     1.0                  Non-STEMM          6.00   
+                                        4.0                  Non-STEMM          1.00   
+                                        6.0                  Non-STEMM          2.00   
+                                        8.0                  Non-STEMM          6.00   
+                2.0                     4.0                  Non-STEMM          1.00   
+                                                             STEMM              1.00   
+                                        6.0                  Non-STEMM         10.00   
+
+                                                                                 25%  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Female          1.0                     1.0                  Non-STEMM          8.00   
+                                                             STEMM              9.50   
+                                        4.0                  Non-STEMM          5.00   
+                                                             STEMM              6.00   
+                                        6.0                  Non-STEMM          3.00   
+                                        7.0                  Non-STEMM          6.00   
+                                                             STEMM              6.00   
+                                        8.0                  Non-STEMM          7.00   
+                                                             STEMM             10.00   
+                2.0                     1.0                  Non-STEMM          5.00   
+                                                             STEMM              6.00   
+                                        4.0                  Non-STEMM          5.00   
+                                                             STEMM              7.00   
+                                        6.0                  Non-STEMM          4.75   
+                                        7.0                  Non-STEMM         10.00   
+                                        8.0                  Non-STEMM          5.00   
+                                                             STEMM             18.00   
+Male            1.0                     1.0                  Non-STEMM         12.00   
+                                                             STEMM             12.00   
+                                        4.0                  Non-STEMM          5.50   
+                                                             STEMM             10.00   
+                                        6.0                  Non-STEMM          4.00   
+                                        7.0                  Non-STEMM          5.00   
+                                                             STEMM             20.00   
+                                        8.0                  Non-STEMM          6.00   
+                                                             STEMM             13.75   
+                2.0                     1.0                  Non-STEMM          8.00   
+                                                             STEMM              5.00   
+                                        4.0                  Non-STEMM          5.00   
+                                                             STEMM              9.00   
+                                        6.0                  Non-STEMM          3.50   
+                                        7.0                  Non-STEMM          4.25   
+                                                             STEMM              5.00   
+                                        8.0                  Non-STEMM          3.25   
+                                                             STEMM             30.00   
+Other           1.0                     1.0                  Non-STEMM          6.00   
+                                        4.0                  Non-STEMM          4.25   
+                                        6.0                  Non-STEMM          3.00   
+                                        8.0                  Non-STEMM          6.00   
+                2.0                     4.0                  Non-STEMM          7.50   
+                                                             STEMM              1.00   
+                                        6.0                  Non-STEMM         10.00   
+
+                                                                                50%  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories         
+Female          1.0                     1.0                  Non-STEMM         20.0   
+                                                             STEMM             20.0   
+                                        4.0                  Non-STEMM         10.0   
+                                                             STEMM             10.0   
+                                        6.0                  Non-STEMM          5.0   
+                                        7.0                  Non-STEMM         10.0   
+                                                             STEMM              6.0   
+                                        8.0                  Non-STEMM         10.0   
+                                                             STEMM             12.5   
+                2.0                     1.0                  Non-STEMM         15.0   
+                                                             STEMM             12.0   
+                                        4.0                  Non-STEMM         10.0   
+                                                             STEMM             10.0   
+                                        6.0                  Non-STEMM          8.0   
+                                        7.0                  Non-STEMM         10.0   
+                                        8.0                  Non-STEMM         10.0   
+                                                             STEMM             30.0   
+Male            1.0                     1.0                  Non-STEMM         20.0   
+                                                             STEMM             20.0   
+                                        4.0                  Non-STEMM         10.0   
+                                                             STEMM             13.0   
+                                        6.0                  Non-STEMM          7.5   
+                                        7.0                  Non-STEMM         13.0   
+                                                             STEMM             20.0   
+                                        8.0                  Non-STEMM          8.0   
+                                                             STEMM             17.5   
+                2.0                     1.0                  Non-STEMM         20.0   
+                                                             STEMM             10.0   
+                                        4.0                  Non-STEMM         10.0   
+                                                             STEMM             13.0   
+                                        6.0                  Non-STEMM          7.0   
+                                        7.0                  Non-STEMM          4.5   
+                                                             STEMM              5.0   
+                                        8.0                  Non-STEMM          5.5   
+                                                             STEMM             30.0   
+Other           1.0                     1.0                  Non-STEMM          6.0   
+                                        4.0                  Non-STEMM         10.0   
+                                        6.0                  Non-STEMM          3.0   
+                                        8.0                  Non-STEMM          6.0   
+                2.0                     4.0                  Non-STEMM         10.0   
+                                                             STEMM              1.0   
+                                        6.0                  Non-STEMM         10.0   
+
+                                                                                 75%  \
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories          
+Female          1.0                     1.0                  Non-STEMM         32.00   
+                                                             STEMM             25.25   
+                                        4.0                  Non-STEMM         20.00   
+                                                             STEMM             22.00   
+                                        6.0                  Non-STEMM         10.00   
+                                        7.0                  Non-STEMM         16.00   
+                                                             STEMM              6.00   
+                                        8.0                  Non-STEMM         16.00   
+                                                             STEMM             15.75   
+                2.0                     1.0                  Non-STEMM         30.00   
+                                                             STEMM             25.00   
+                                        4.0                  Non-STEMM         20.00   
+                                                             STEMM             17.50   
+                                        6.0                  Non-STEMM         10.00   
+                                        7.0                  Non-STEMM         10.00   
+                                        8.0                  Non-STEMM         15.00   
+                                                             STEMM             30.00   
+Male            1.0                     1.0                  Non-STEMM         40.00   
+                                                             STEMM             38.75   
+                                        4.0                  Non-STEMM         19.50   
+                                                             STEMM             18.25   
+                                        6.0                  Non-STEMM         11.50   
+                                        7.0                  Non-STEMM         25.00   
+                                                             STEMM             20.00   
+                                        8.0                  Non-STEMM         15.00   
+                                                             STEMM             25.00   
+                2.0                     1.0                  Non-STEMM         40.00   
+                                                             STEMM             30.00   
+                                        4.0                  Non-STEMM         16.00   
+                                                             STEMM             13.00   
+                                        6.0                  Non-STEMM         10.00   
+                                        7.0                  Non-STEMM          4.75   
+                                                             STEMM              5.00   
+                                        8.0                  Non-STEMM         13.25   
+                                                             STEMM             30.00   
+Other           1.0                     1.0                  Non-STEMM          6.00   
+                                        4.0                  Non-STEMM         10.00   
+                                        6.0                  Non-STEMM          5.00   
+                                        8.0                  Non-STEMM          6.00   
+                2.0                     4.0                  Non-STEMM         13.50   
+                                                             STEMM              1.00   
+                                        6.0                  Non-STEMM         10.00   
+
+                                                                                 max  
+Gender_Category ParentGuardianEducation CareerStage_NRMNCC_4 Major_Categories         
+Female          1.0                     1.0                  Non-STEMM         160.0  
+                                                             STEMM             120.0  
+                                        4.0                  Non-STEMM         100.0  
+                                                             STEMM             100.0  
+                                        6.0                  Non-STEMM         180.0  
+                                        7.0                  Non-STEMM          20.0  
+                                                             STEMM               6.0  
+                                        8.0                  Non-STEMM          52.0  
+                                                             STEMM              52.0  
+                2.0                     1.0                  Non-STEMM          80.0  
+                                                             STEMM              40.0  
+                                        4.0                  Non-STEMM          72.0  
+                                                             STEMM              31.0  
+                                        6.0                  Non-STEMM          20.0  
+                                        7.0                  Non-STEMM          10.0  
+                                        8.0                  Non-STEMM          90.0  
+                                                             STEMM              30.0  
+Male            1.0                     1.0                  Non-STEMM         200.0  
+                                                             STEMM             120.0  
+                                        4.0                  Non-STEMM          80.0  
+                                                             STEMM              20.0  
+                                        6.0                  Non-STEMM          16.0  
+                                        7.0                  Non-STEMM          40.0  
+                                                             STEMM              20.0  
+                                        8.0                  Non-STEMM          52.0  
+                                                             STEMM              52.0  
+                2.0                     1.0                  Non-STEMM         350.0  
+                                                             STEMM             100.0  
+                                        4.0                  Non-STEMM         160.0  
+                                                             STEMM              35.0  
+                                        6.0                  Non-STEMM          20.0  
+                                        7.0                  Non-STEMM           5.0  
+                                                             STEMM               5.0  
+                                        8.0                  Non-STEMM          30.0  
+                                                             STEMM              30.0  
+Other           1.0                     1.0                  Non-STEMM           6.0  
+                                        4.0                  Non-STEMM          40.0  
+                                        6.0                  Non-STEMM          15.0  
+                                        8.0                  Non-STEMM           6.0  
+                2.0                     4.0                  Non-STEMM          20.0  
+                                                             STEMM               1.0  
+                                        6.0                  Non-STEMM          10.0  
